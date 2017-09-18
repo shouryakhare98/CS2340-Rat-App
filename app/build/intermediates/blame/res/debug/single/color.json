@@ -28,6 +28,10 @@
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/color/abc_primary_text_material_light.xml"
     },
     {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/res/color/design_error.xml"
+    },
+    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/color/switch_thumb_material_light.xml"
     },
