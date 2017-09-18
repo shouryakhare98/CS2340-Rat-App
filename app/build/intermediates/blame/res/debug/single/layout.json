@@ -28,10 +28,6 @@
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/activity_main2.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/layout/activity_main2.xml"
-    },
-    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/layout/abc_alert_dialog_title_material.xml"
     },
@@ -94,10 +90,6 @@
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
         "source": "/Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/res/layout/design_navigation_menu.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/content_main2.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/layout/content_main2.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
@@ -166,10 +158,6 @@
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
         "source": "/Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/res/layout/design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/content_main.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/layout/content_main.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
