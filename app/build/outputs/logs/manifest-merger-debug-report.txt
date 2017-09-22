@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:3:5-54
 		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/
 		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:5:5-18:19
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:5:5-23:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shouryakhare/.android/build-cache/839f478d8721d71390e1dd7eb133a633bddb2a90/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/AndroidManifest.xml:29:5-20
@@ -39,20 +39,28 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/shouryakha
 		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
 		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.example.shouryakhare.cs2340_rat_app.MainActivity
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:12:9-17:20
+activity#com.example.shouryakhare.cs2340_rat_app.Controller.MainActivity
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:12:19-58
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:13:13-16:29
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:14:17-68
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
 		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:15:17-76
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.shouryakhare.cs2340_rat_app.Controller.LoginSuccessfulActivity
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:19:9-22:68
+	android:label
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:21:13-68
+	android:theme
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:20:13-63
 uses-sdk
 INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shouryakhare/.android/build-cache/839f478d8721d71390e1dd7eb133a633bddb2a90/output/AndroidManifest.xml:5:5-7:41

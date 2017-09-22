@@ -8,4 +8,5 @@
     <string name="mainActivity_newUser">New User?</string>
     <string name="mainActivity_loginButton">LOGIN</string>
     <string name="mainActivity_registerButton">REGISTER</string>
+    <string name="title_activity_login_successful">LoginSuccessfulActivity</string>
 </resources>
