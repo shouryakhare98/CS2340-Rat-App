@@ -1,24 +1,16 @@
 package com.example.shouryakhare.cs2340_rat_app.Controller;
 
 import android.content.Intent;
-import android.support.constraint.ConstraintLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Gravity;
-import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.ViewGroup;
 import android.view.inputmethod.InputMethodManager;
-import android.widget.AdapterView;
 import android.widget.Button;
-import android.widget.PopupWindow;
 import android.widget.TextView;
 
 import com.example.shouryakhare.cs2340_rat_app.Model.User;
 import com.example.shouryakhare.cs2340_rat_app.R;
-
-import org.w3c.dom.Text;
 
 public class MainActivity extends AppCompatActivity {
 
