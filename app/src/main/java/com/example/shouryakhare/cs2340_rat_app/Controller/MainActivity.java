@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
                 if (!user.getUsername().trim().isEmpty() && !user.getPassword().isEmpty()) {
                     if (user.getUsername().equals("user") && user.getPassword().equals("pass")) {
+                        incorrectDetailsTextView.setVisibility(View.INVISIBLE);
                         Intent loginIntent = new Intent(MainActivity.this,
                                 LoginSuccessfulActivity.class);
                         startActivity(loginIntent);
