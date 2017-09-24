@@ -19,7 +19,12 @@
         <activity
             android:name=".Controller.LoginSuccessfulActivity"
             android:label="@string/title_activity_login_successful"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:parentActivityName=".Controller.MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.shouryakhare.cs2340_rat_app.Controller.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

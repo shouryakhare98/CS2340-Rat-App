@@ -685,7 +685,9 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="loginSuccessful_logoutButton">Logout</string>
     <string name="mainActivity_heading">Rattata</string>
+    <string name="mainActivity_incorrectDetails">Incorrect username or password!</string>
     <string name="mainActivity_loginButton">LOGIN</string>
     <string name="mainActivity_newUser">New User?</string>
     <string name="mainActivity_password">Password</string>
@@ -708,7 +710,7 @@
         <item name="android:windowEnterAnimation">@anim/design_bottom_sheet_slide_in</item>
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>

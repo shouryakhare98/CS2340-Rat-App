@@ -1,9 +1,15 @@
 package com.example.shouryakhare.cs2340_rat_app.Controller;
 
 import android.content.Intent;
+import android.support.constraint.ConstraintLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Gravity;
+import android.view.LayoutInflater;
+import android.view.MotionEvent;
 import android.view.View;
+import android.view.ViewGroup;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.PopupWindow;
@@ -11,6 +17,8 @@ import android.widget.TextView;
 
 import com.example.shouryakhare.cs2340_rat_app.Model.User;
 import com.example.shouryakhare.cs2340_rat_app.R;
+
+import org.w3c.dom.Text;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -24,9 +32,9 @@ public class MainActivity extends AppCompatActivity {
      */
     private TextView usernameTextView;
     private TextView passwordTextView;
+    private TextView incorrectDetailsTextView;
     private Button loginButton;
     private Button registerButton;
-    private PopupWindow popUp;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,11 +46,15 @@ public class MainActivity extends AppCompatActivity {
          */
         usernameTextView = (TextView) findViewById(R.id.mainActivity_usernameTextField);
         passwordTextView = (TextView) findViewById(R.id.mainActivity_passwordTextField);
+        incorrectDetailsTextView = (TextView) findViewById(R.id.mainActivity_incorrectDetails);
         loginButton = (Button) findViewById(R.id.mainActivity_loginButton);
         registerButton = (Button) findViewById(R.id.mainActivity_registerButton);
-        popUp = new PopupWindow(this);
+
+        incorrectDetailsTextView.setVisibility(View.INVISIBLE);
 
         loginButton.setOnClickListener(new View.OnClickListener() {
+
+            @Override
             public void onClick(View v) {
                 user = new User(usernameTextView.getText().toString(), passwordTextView.getText().toString());
 
@@ -51,8 +63,19 @@ public class MainActivity extends AppCompatActivity {
                         Intent loginIntent = new Intent(MainActivity.this,
                                 LoginSuccessfulActivity.class);
                         startActivity(loginIntent);
+                    } else {
+                        incorrectDetailsTextView.setVisibility(View.VISIBLE);
                     }
                 }
+            }
+        });
+
+        findViewById(R.id.rootLayout).setOnTouchListener(new View.OnTouchListener() {
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                InputMethodManager imm = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
+                imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
+                return true;
             }
         });
     }

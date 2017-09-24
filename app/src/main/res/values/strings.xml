@@ -9,4 +9,7 @@
     <string name="mainActivity_loginButton">LOGIN</string>
     <string name="mainActivity_registerButton">REGISTER</string>
     <string name="title_activity_login_successful">LoginSuccessfulActivity</string>
+    <string name="mainActivity_incorrectDetails">Incorrect username or password!</string>
+
+    <string name="loginSuccessful_logoutButton">Logout</string>
 </resources>

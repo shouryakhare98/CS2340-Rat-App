@@ -12,6 +12,10 @@
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/android_meme.jpg",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/drawable/android_meme.jpg"
+    },
+    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
         "source": "/Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/res/drawable/design_snackbar_background.xml"
     },
