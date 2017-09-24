@@ -4,7 +4,15 @@
         "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]

@@ -4,20 +4,48 @@
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/color-v23/abc_color_highlight_material.xml"
     },
     {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/samshapiro/.android/build-cache/3967a19729da70fed03748f486f4cbf58f5e7005/output/res/color-v23/design_tint_password_toggle.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
         "source": "/Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
@@ -32,12 +60,28 @@
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
         "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",

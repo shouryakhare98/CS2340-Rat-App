@@ -2,5 +2,9 @@
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
         "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/res/menu/menu_main.xml"
     }
 ]

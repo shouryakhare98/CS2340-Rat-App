@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fa998fe511fec9d79a6a15d9a358ba5b5ada7991/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/c38762160178b7e0faef5d5ec3e320cce79707cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d49b111890f9916b8bda0f93c0b06c14306676f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/efacf7ade50ddd006acb7bc83717107412100f9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cd97897f6cee11a9faf226b4f3568a1f27d5f45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/cf5aaf76ebe3f817edd298f7d329f0d0072bd1f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bf2bf093d974bc267837ef6b5cf6e624dbbc6de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/e9c97235b5a7a4804a7660f9c15604fb1aed2098/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b435775bed6d29ccfabb4aed441b586eb107c995/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/68a184a4a04f5820b87fe67899a21f1848bec430/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c3d779ab6473457ae343b3917aa74273e174559/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_d8856381a4996710915d85254eed024115277051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d9a8c88c5447eb4d6d372f71e47ba0b766c4465/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/ef11a4d833474376680d705668821a6fa92a37c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bede82f7c5d824be3859d15a41d571e623c3ea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb5af1f07cd2ebaafa12a8cc80f4b5f3d6bee7b3">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0366f0518927a9e60e41af9841c25c2219107417/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/b0fbdeff87050d2b0823e84d266d99fdbf33edf4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b85dc074c4fdf4a20f9b177f5a52db83800323b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/3967a19729da70fed03748f486f4cbf58f5e7005/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_193090fd40918743d7e56bef3de76359660ee4f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/8f2fae01faf5c6ed5493a8f3ec4aa3a22108b20b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2867a9f7946504e49a2359df151e9a451e6de58b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/fc63c1bbe55cf88f8872233699d6eecf7c6e38fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c10d168d05207c24cd043d378f1777fd7ad6f68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/a07feccde7d857f49d3aa16f4b9a3b2719848b9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c52ee1320036dba295f243db8e8b31ba8b5e81f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_db1aad122a6c9ec857585f3e0f4bafceb1a42102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samshapiro/.android/build-cache/e06c0f412def2c5ddf6f9ee2dfc33cf59e932452/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b9c044b1c5ac19ea0fd4dc0e0bdc1368777b942/classes.dex" />
+    </item>
+
+</items>

@@ -1,111 +1,111 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:3:5-54
-		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:5:5-28:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shouryakhare/.android/build-cache/839f478d8721d71390e1dd7eb133a633bddb2a90/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/ff48f7425aa5686cc544bc8041f77d6a0c072212/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/2af83221fc059dec2432efc22adabc2745768312/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/994232576fdcb93517c057e84137c18749e2c01d/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/f21975df443fa95b95ccaa6d5c852ff5a717e49d/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/c374b8530222c52bd0be7981b85c34942522ca76/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/cf575849fe9b11f890b746b7ca6aba6646097aa8/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/8f1fdb49511e82109ef5479b5a00cf35813bb97e/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/1233e536aed39e468fcc2be1774b401e79f4f669/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/bb127cfb396d73d443ac788dfd5d2cc63730b837/output/AndroidManifest.xml:29:5-20
+ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/samshapiro/.android/build-cache/68a184a4a04f5820b87fe67899a21f1848bec430/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/3967a19729da70fed03748f486f4cbf58f5e7005/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/c38762160178b7e0faef5d5ec3e320cce79707cc/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/e9c97235b5a7a4804a7660f9c15604fb1aed2098/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/ef11a4d833474376680d705668821a6fa92a37c8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/a07feccde7d857f49d3aa16f4b9a3b2719848b9b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/e06c0f412def2c5ddf6f9ee2dfc33cf59e932452/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/efacf7ade50ddd006acb7bc83717107412100f9a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/cf5aaf76ebe3f817edd298f7d329f0d0072bd1f0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/fc63c1bbe55cf88f8872233699d6eecf7c6e38fa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/8f2fae01faf5c6ed5493a8f3ec4aa3a22108b20b/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.shouryakhare.cs2340_rat_app.Controller.MainActivity
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:12:19-58
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:12:19-58
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:16:27-74
 activity#com.example.shouryakhare.cs2340_rat_app.Controller.LoginSuccessfulActivity
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:19:9-27:20
+ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:19:9-27:20
 	android:label
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:21:13-68
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:21:13-68
 	android:parentActivityName
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:22:13-66
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:22:13-66
 	android:theme
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:23:13-44
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:23:13-44
 	android:name
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:20:13-63
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:20:13-63
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:24:13-26:99
+ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:24:13-26:99
 	android:value
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:26:17-96
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:26:17-96
 	android:name
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:25:17-63
+		ADDED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml:25:17-63
 uses-sdk
-INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shouryakhare/.android/build-cache/839f478d8721d71390e1dd7eb133a633bddb2a90/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/ff48f7425aa5686cc544bc8041f77d6a0c072212/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/2af83221fc059dec2432efc22adabc2745768312/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/2ba130b33d9a3fdee4beca6af4f5581af89b6a8f/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/994232576fdcb93517c057e84137c18749e2c01d/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/f21975df443fa95b95ccaa6d5c852ff5a717e49d/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/c374b8530222c52bd0be7981b85c34942522ca76/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/cf575849fe9b11f890b746b7ca6aba6646097aa8/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/8f1fdb49511e82109ef5479b5a00cf35813bb97e/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/1233e536aed39e468fcc2be1774b401e79f4f669/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/bb127cfb396d73d443ac788dfd5d2cc63730b837/output/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/samshapiro/.android/build-cache/68a184a4a04f5820b87fe67899a21f1848bec430/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/3967a19729da70fed03748f486f4cbf58f5e7005/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/c38762160178b7e0faef5d5ec3e320cce79707cc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/e9c97235b5a7a4804a7660f9c15604fb1aed2098/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/b0fbdeff87050d2b0823e84d266d99fdbf33edf4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/ef11a4d833474376680d705668821a6fa92a37c8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/a07feccde7d857f49d3aa16f4b9a3b2719848b9b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/e06c0f412def2c5ddf6f9ee2dfc33cf59e932452/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/efacf7ade50ddd006acb7bc83717107412100f9a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/cf5aaf76ebe3f817edd298f7d329f0d0072bd1f0/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/fc63c1bbe55cf88f8872233699d6eecf7c6e38fa/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/8f2fae01faf5c6ed5493a8f3ec4aa3a22108b20b/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/3967a19729da70fed03748f486f4cbf58f5e7005/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/ff48f7425aa5686cc544bc8041f77d6a0c072212/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/2af83221fc059dec2432efc22adabc2745768312/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/2ba130b33d9a3fdee4beca6af4f5581af89b6a8f/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/994232576fdcb93517c057e84137c18749e2c01d/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/f21975df443fa95b95ccaa6d5c852ff5a717e49d/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/c374b8530222c52bd0be7981b85c34942522ca76/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/cf575849fe9b11f890b746b7ca6aba6646097aa8/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/8f1fdb49511e82109ef5479b5a00cf35813bb97e/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/1233e536aed39e468fcc2be1774b401e79f4f669/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/bb127cfb396d73d443ac788dfd5d2cc63730b837/output/AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/3967a19729da70fed03748f486f4cbf58f5e7005/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/c38762160178b7e0faef5d5ec3e320cce79707cc/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/e9c97235b5a7a4804a7660f9c15604fb1aed2098/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/b0fbdeff87050d2b0823e84d266d99fdbf33edf4/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/ef11a4d833474376680d705668821a6fa92a37c8/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/a07feccde7d857f49d3aa16f4b9a3b2719848b9b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/e06c0f412def2c5ddf6f9ee2dfc33cf59e932452/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/efacf7ade50ddd006acb7bc83717107412100f9a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/cf5aaf76ebe3f817edd298f7d329f0d0072bd1f0/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/fc63c1bbe55cf88f8872233699d6eecf7c6e38fa/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/8f2fae01faf5c6ed5493a8f3ec4aa3a22108b20b/output/AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/3967a19729da70fed03748f486f4cbf58f5e7005/output/AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/samshapiro/.android/build-cache/3967a19729da70fed03748f486f4cbf58f5e7005/output/AndroidManifest.xml:26:9-47
