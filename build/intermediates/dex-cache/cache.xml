@@ -2,139 +2,157 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\91ac0d9ab9f03b8b250227d185693f1441c43ba2\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_1924df779cfa6a8a64a0527e782d9cb223a63f81.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Josh\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8952458d51525b9f97149775d765bd2b13bece17.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\d5da517bfa5b122fd98b9da7f614043de8a98cbf\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_6b5e3a3e1c0dd3ae6d1f87c6517cda0279d6505f.jar" />
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66b8eb37b0d3a803d0fc423c7c19fc0cc7b7e027/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\6cd77e46b72bc58eff58b51df2d7ffec4df577fb\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/18069843f9058ddb6542ef5dfbe9cf68c641efdf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_534497f84a60b585484d198e5e4ba0d349838cb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/9a192b5cabd3e690e9c63d52e74bd15e5698aa78/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_5c08c7ad2392bd8e4b18b0742b3ec63fe94c44d7.jar" />
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_adb402ba8104f5e3f013592a750bbf694654baa3/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\449d1b70f5ee1e08b7f592a97d9f8ecb7b3021ca\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_0c8f8b3fda3067c83a563f03191c91c363143e59.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7fcc5fda51f58c0b105e35c24e8d830b0b47191c/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\71fd446a69260dc67997b0efd42c03a80cf8d9df\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_236396baa87b071430a19be9e243c3c3ccfd2fe6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_46f6349adf259bc1253796d87d323b2f67fa71d7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\258bc09e012fccb77033762ea1eb4fb635097e03\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_68cf06736579bd48072aae0f4cb7364cfc1330d9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\f46c19696dc14ad066c92d18033312314a7e1620\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_89a2972a37d2c7d0b0305be17929c22bbb339433.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\52c9493c54ff425a7f25a1cb4d0b0378a3c3137b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_717909521608f13ab7ab3e78e71dd837ecc3c1ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\f3793a313fe62eed1e280cd762362711c598bf34\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_dc55bed95dbfc4e3feb8d2c293b134572d7745e1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\be30a4f29c17cd62c117cf0aca32290f56d8f219\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_a46838e5a85780f1e82cad388a7dfaa4bca36f22.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\65a3bbb89180c42ca8d19951baa6a0b15a73f723\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/30469740bf61e1332b15a5a9ae71b67a68f9a084/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_cb7a84ec02e555f38d8d294a9e166c204507b218.jar" />
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5059e686adc0e81b2cc7b55e079ce67760b9965d/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Josh\.android\build-cache\6c4de9937051f63b5c7167ae3a226016204d12af\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/3d4a3d356e40088b675c9e0199c9739180828bc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b1d94bd7adf9d7d1e0b37b27ad1f7a713bb527d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/16c63a3502ee950ec0d99a13ee8bd0a207afc7d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f975a07a378398206f31946afd4c5ee0911723c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/06a72a58108bdb85a683d33085114ca9b80e9b7e/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\classes_7b2dfabbbb2d8517bf451d343f519222c267a622.jar" />
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a23abf9f33e8741df90a0c5cfd1153b396a4101b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Josh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/shouryakhare/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\Users\Josh\CS2340-Rat-App\CS2340-Rat-App\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_591c704d22984bd7a46a5efb2a4c0e301f2aac07.jar" />
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_669999e110885ca4df964848a8fca4894164fd74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/074f695965f7667ba5dd6837cafa06cc1955e1ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d93c7ac8a98990dd2a22f3082438b249f8001253/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shouryakhare/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_138d38d136aeb4c4da3c970d9603417ff6c73dd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98af7ce862a91735259678ae823ee6e0c831d950">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c3789c94e7ac19436b211c590d28ab3789a22f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/839f478d8721d71390e1dd7eb133a633bddb2a90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8848d12444ebfae91dff3a163c1926689ba51e01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/301eda4f3aaeb84de146f746d83fd6d7770e3f33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42d8bad690bded267f736a1d3f60a6c601d3d8a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/d278e886d7de9692fbb2a313950da7a752ce8293/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0511b6f209c047f4b3e80983377a50c41cf58ee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/c0f966b69d379fab5f4d77299ccfa41ebe5d7255/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_351313bb38693df595bcd16666975730f05020b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shouryakhare/.android/build-cache/c13861b387ddadb90c32312fcb1341b7e8b234a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c96c42a4099ce6a99f42a3484c1fe6c0ffb7774/classes.dex" />
     </item>
 
 </items>

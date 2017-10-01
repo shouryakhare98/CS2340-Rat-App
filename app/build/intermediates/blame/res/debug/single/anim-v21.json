@@ -1,26 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\3967a19729da70fed03748f486f4cbf58f5e7005\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\3967a19729da70fed03748f486f4cbf58f5e7005\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\3967a19729da70fed03748f486f4cbf58f5e7005\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\3967a19729da70fed03748f486f4cbf58f5e7005\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/c0f966b69d379fab5f4d77299ccfa41ebe5d7255/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/c0f966b69d379fab5f4d77299ccfa41ebe5d7255/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]
