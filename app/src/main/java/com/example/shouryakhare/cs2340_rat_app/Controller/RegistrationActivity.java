@@ -15,9 +15,6 @@ import com.example.shouryakhare.cs2340_rat_app.R;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * Created by Josh on 10/1/2017.
  */
