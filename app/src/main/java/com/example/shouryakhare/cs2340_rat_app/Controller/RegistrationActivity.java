@@ -12,6 +12,11 @@ import android.widget.TextView;
 
 import com.example.shouryakhare.cs2340_rat_app.Model.User;
 import com.example.shouryakhare.cs2340_rat_app.R;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Created by Josh on 10/1/2017.
@@ -25,8 +30,10 @@ public class RegistrationActivity extends AppCompatActivity {
     private Button register;
     private TextView usernameTextView;
     private TextView passwordTextView;
+    private TextView fullNameTextView;
     private CheckBox adminBox;
 
+    private DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,18 +42,19 @@ public class RegistrationActivity extends AppCompatActivity {
 
         register = (Button) findViewById(R.id.registration_confirmButton);
         cancel = (Button) findViewById(R.id.registration_cancelButton);
+        fullNameTextView = (TextView) findViewById(R.id.register_fullNameTextField);
         usernameTextView = (TextView) findViewById(R.id.register_usernameTextField);
         passwordTextView = (TextView) findViewById(R.id.register_passwordTextField);
         adminBox = (CheckBox) findViewById(R.id.register_adminButton);
 
-
         register.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                user = new User(usernameTextView.getText().toString(), passwordTextView.getText().toString(), adminBox.isChecked());
+                user = new User(fullNameTextView.getText().toString(), usernameTextView.getText().toString(),
+                        passwordTextView.getText().toString(), adminBox.isChecked());
 
-                Intent registerIntent = new Intent(RegistrationActivity.this, MainActivity.class);
-                startActivity(registerIntent);
+                mRootRef.child("users").child(String.valueOf(user.getId())).setValue(user);
+
             }
         });
 
@@ -58,5 +66,16 @@ public class RegistrationActivity extends AppCompatActivity {
             }
         });
 
+        /*
+        Hides keyboard if a touched outside TextField.
+         */
+        findViewById(R.id.registrationLayout).setOnTouchListener(new View.OnTouchListener() {
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                InputMethodManager imm = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
+                imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
+                return true;
+            }
+        });
     }
 }

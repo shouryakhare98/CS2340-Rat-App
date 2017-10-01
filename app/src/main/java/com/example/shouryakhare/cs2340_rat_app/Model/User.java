@@ -9,6 +9,21 @@ package com.example.shouryakhare.cs2340_rat_app.Model;
 public class User {
 
     /*
+    Represents next id of user.
+     */
+    private static int NextId = 0;
+
+    /*
+    Represents id of current user.
+     */
+    private int id;
+
+    /*
+    Represents full name of user.
+     */
+    private String fullName;
+
+    /*
     Represents username of user.
      */
     private String username;
@@ -21,21 +36,43 @@ public class User {
     /*
     Represents whether user is admin or normal.
      */
-    private boolean admin;
+    private boolean isAdmin;
 
     /*
     Getters
      */
     public String getUsername() { return username; }
     public String getPassword() { return password; }
-    public boolean getAdmin() {return admin; }
+    public boolean getAdmin() { return isAdmin; }
+    public String getFullName() { return fullName; }
+    public int getId() { return id; }
 
     /*
-    3 arg constructor
+    No arg constructor
      */
-    public User(String username, String password, boolean admin) {
+    public User() {}
+
+    /*
+    2 arg constructor
+     */
+    public User(String username, String password) {
         this.username = username;
         this.password = password;
-        this.admin = admin;
+    }
+
+    /*
+    4 arg constructor
+     */
+    public User(String fullName, String username, String password, boolean admin) {
+        this.id = User.NextId++;
+        this.fullName = fullName;
+        this.username = username;
+        this.password = password;
+        this.isAdmin = admin;
+    }
+
+    @Override
+    public String toString() {
+        return String.valueOf(id) + " " + fullName + " " + username + " " + isAdmin;
     }
 }

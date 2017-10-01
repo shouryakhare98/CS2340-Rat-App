@@ -1,5 +1,428 @@
 [
     {
+        "outputFile": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 120,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 120,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 107,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 107,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 122,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 122,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 103,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 103,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 112,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 112,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 87,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 87,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 111,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 111,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 120,
+                    "endOffset": 990
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 120,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 995,
+                    "endColumn": 84,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 84,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 81,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 81,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 82,
+                    "endOffset": 1240
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 82,
+                        "endOffset": 1190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1245,
+                    "endColumn": 111,
+                    "endOffset": 1352
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 111,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1357,
+                    "endColumn": 112,
+                    "endOffset": 1465
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1307,
+                        "endColumn": 112,
+                        "endOffset": 1415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1470,
+                    "endColumn": 99,
+                    "endOffset": 1565
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1420,
+                        "endColumn": 99,
+                        "endOffset": 1515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1570,
+                    "endColumn": 113,
+                    "endOffset": 1679
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1520,
+                        "endColumn": 113,
+                        "endOffset": 1629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1684,
+                    "endColumn": 104,
+                    "endOffset": 1784
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1634,
+                        "endColumn": 104,
+                        "endOffset": 1734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1789,
+                    "endColumn": 105,
+                    "endOffset": 1890
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1739,
+                        "endColumn": 105,
+                        "endOffset": 1840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1895,
+                    "endColumn": 120,
+                    "endOffset": 2011
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1845,
+                        "endColumn": 120,
+                        "endOffset": 1961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2016,
+                    "endColumn": 102,
+                    "endOffset": 2114
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1966,
+                        "endColumn": 102,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2119,
+                    "endColumn": 203,
+                    "endOffset": 2318
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/51cdb7df38d60958a1d111e3c7d6ef053f2f4005/output/res/values-ro/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 203,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2323,
+                    "endColumn": 82,
+                    "endOffset": 2401
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2069,
+                        "endColumn": 82,
+                        "endOffset": 2147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2406,
+                    "endColumn": 100,
+                    "endOffset": 2502
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2152,
+                        "endColumn": 100,
+                        "endOffset": 2248
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
         "map": [
             {
@@ -404,7 +827,7 @@
         ]
     },
     {
-        "outputFile": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
+        "outputFile": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
         "map": [
             {
                 "to": {
@@ -415,7 +838,7 @@
                     "endOffset": 171
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -434,7 +857,7 @@
                     "endOffset": 279
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -453,7 +876,7 @@
                     "endOffset": 402
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -472,7 +895,7 @@
                     "endOffset": 506
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -491,7 +914,7 @@
                     "endOffset": 619
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -510,7 +933,7 @@
                     "endOffset": 707
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -529,7 +952,7 @@
                     "endOffset": 819
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -548,7 +971,7 @@
                     "endOffset": 940
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -567,7 +990,7 @@
                     "endOffset": 1025
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -586,7 +1009,7 @@
                     "endOffset": 1107
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -605,7 +1028,7 @@
                     "endOffset": 1190
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -624,7 +1047,7 @@
                     "endOffset": 1302
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -643,7 +1066,7 @@
                     "endOffset": 1415
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -662,7 +1085,7 @@
                     "endOffset": 1515
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -681,7 +1104,7 @@
                     "endOffset": 1629
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -700,7 +1123,7 @@
                     "endOffset": 1734
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -719,7 +1142,7 @@
                     "endOffset": 1840
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -738,7 +1161,7 @@
                     "endOffset": 1961
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -757,7 +1180,7 @@
                     "endOffset": 2064
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -776,7 +1199,7 @@
                     "endOffset": 2147
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -795,7 +1218,7 @@
                     "endOffset": 2248
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-ro/values-ro.xml",
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1200,410 +1623,6 @@
                 },
                 "from": {
                     "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2152,
-                        "endColumn": 100,
-                        "endOffset": 2248
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 120,
-                    "endOffset": 171
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 120,
-                        "endOffset": 171
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 176,
-                    "endColumn": 107,
-                    "endOffset": 279
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 176,
-                        "endColumn": 107,
-                        "endOffset": 279
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 284,
-                    "endColumn": 122,
-                    "endOffset": 402
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 284,
-                        "endColumn": 122,
-                        "endOffset": 402
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 407,
-                    "endColumn": 103,
-                    "endOffset": 506
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 407,
-                        "endColumn": 103,
-                        "endOffset": 506
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 511,
-                    "endColumn": 112,
-                    "endOffset": 619
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 511,
-                        "endColumn": 112,
-                        "endOffset": 619
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 624,
-                    "endColumn": 87,
-                    "endOffset": 707
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 624,
-                        "endColumn": 87,
-                        "endOffset": 707
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 712,
-                    "endColumn": 111,
-                    "endOffset": 819
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 712,
-                        "endColumn": 111,
-                        "endOffset": 819
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 824,
-                    "endColumn": 120,
-                    "endOffset": 940
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 824,
-                        "endColumn": 120,
-                        "endOffset": 940
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 945,
-                    "endColumn": 84,
-                    "endOffset": 1025
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 945,
-                        "endColumn": 84,
-                        "endOffset": 1025
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1030,
-                    "endColumn": 81,
-                    "endOffset": 1107
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1030,
-                        "endColumn": 81,
-                        "endOffset": 1107
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1112,
-                    "endColumn": 82,
-                    "endOffset": 1190
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1112,
-                        "endColumn": 82,
-                        "endOffset": 1190
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1195,
-                    "endColumn": 111,
-                    "endOffset": 1302
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1195,
-                        "endColumn": 111,
-                        "endOffset": 1302
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1307,
-                    "endColumn": 112,
-                    "endOffset": 1415
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1307,
-                        "endColumn": 112,
-                        "endOffset": 1415
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1420,
-                    "endColumn": 99,
-                    "endOffset": 1515
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1420,
-                        "endColumn": 99,
-                        "endOffset": 1515
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1520,
-                    "endColumn": 113,
-                    "endOffset": 1629
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1520,
-                        "endColumn": 113,
-                        "endOffset": 1629
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1634,
-                    "endColumn": 104,
-                    "endOffset": 1734
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1634,
-                        "endColumn": 104,
-                        "endOffset": 1734
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1739,
-                    "endColumn": 105,
-                    "endOffset": 1840
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1739,
-                        "endColumn": 105,
-                        "endOffset": 1840
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1845,
-                    "endColumn": 120,
-                    "endOffset": 1961
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1845,
-                        "endColumn": 120,
-                        "endOffset": 1961
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1966,
-                    "endColumn": 102,
-                    "endOffset": 2064
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1966,
-                        "endColumn": 102,
-                        "endOffset": 2064
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2069,
-                    "endColumn": 82,
-                    "endOffset": 2147
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2069,
-                        "endColumn": 82,
-                        "endOffset": 2147
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2152,
-                    "endColumn": 100,
-                    "endOffset": 2248
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-ro\\values-ro.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

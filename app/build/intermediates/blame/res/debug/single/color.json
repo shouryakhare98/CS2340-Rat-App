@@ -1,83 +1,79 @@
 [
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\color\\design_error.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
         "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/color/switch_thumb_material_light.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\color\\design_error.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
         "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/eb04ec86f69957f6a81ebbfb590ab177145a756a/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/color/switch_thumb_material_dark.xml"
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
@@ -85,27 +81,31 @@
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/c0f966b69d379fab5f4d77299ccfa41ebe5d7255/output/res/color/design_error.xml"
+        "source": "/Users/shouryakhare/.android/build-cache/e5ac11d8600d26b83961a90e518329115e5f69a7/output/res/color/design_error.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/eb04ec86f69957f6a81ebbfb590ab177145a756a/output/res/color/common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/eb04ec86f69957f6a81ebbfb590ab177145a756a/output/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/color/abc_primary_text_material_dark.xml"
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
@@ -113,82 +113,98 @@
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\color\\design_error.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/color/abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/eb04ec86f69957f6a81ebbfb590ab177145a756a/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
         "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\color\\abc_primary_text_material_light.xml"
     }
 ]

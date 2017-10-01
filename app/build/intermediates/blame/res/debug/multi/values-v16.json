@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 65,
-                    "endOffset": 116
-                },
-                "from": {
-                    "file": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/values-v16/values-v16.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 65,
-                        "endOffset": 116
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
         "map": [
             {
@@ -48,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "outputFile": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
         "map": [
             {
                 "to": {
@@ -59,7 +35,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-v16\\values-v16.xml",
+                    "file": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/values-v16/values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -84,6 +60,30 @@
                 },
                 "from": {
                     "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

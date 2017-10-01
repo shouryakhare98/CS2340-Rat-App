@@ -13,9 +13,11 @@
 
     <string name="loginSuccessful_logoutButton">Logout</string>
 
+    <string name="register_mainHeading">Register</string>
     <string name="register_confirmButton">Confirm</string>
     <string name="register_cancelButton">Cancel</string>
     <string name="register_userHeading">Username</string>
     <string name="register_passHeading">Password</string>
     <string name="register_adminButton">Admin?</string>
+    <string name="register_fullNameHeading">Full Name</string>
 </resources>

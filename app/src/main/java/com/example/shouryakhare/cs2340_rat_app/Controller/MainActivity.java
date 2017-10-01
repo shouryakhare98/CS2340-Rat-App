@@ -11,13 +11,13 @@ import android.widget.TextView;
 
 import com.example.shouryakhare.cs2340_rat_app.Model.User;
 import com.example.shouryakhare.cs2340_rat_app.R;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 public class MainActivity extends AppCompatActivity {
-
-    /*
-    User class object.
-     */
-    private User user;
 
     /*
     Widgets needed to get user info.
@@ -48,18 +48,38 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                user = new User(usernameTextView.getText().toString(), passwordTextView.getText().toString(), true);
 
-                if (!user.getUsername().trim().isEmpty() && !user.getPassword().isEmpty()) {
-                    if (user.getUsername().equals("user") && user.getPassword().equals("pass")) {
-                        incorrectDetailsTextView.setVisibility(View.INVISIBLE);
-                        Intent loginIntent = new Intent(MainActivity.this,
-                                LoginSuccessfulActivity.class);
-                        startActivity(loginIntent);
-                    } else {
-                        incorrectDetailsTextView.setVisibility(View.VISIBLE);
+                FirebaseDatabase database = FirebaseDatabase.getInstance();
+                DatabaseReference databaseReference = database.getReference();
+                databaseReference.child("users").addValueEventListener(new ValueEventListener() {
+                    @Override
+                    public void onDataChange(DataSnapshot dataSnapshot) {
+                        boolean correct = false;
+
+                        for (DataSnapshot child : dataSnapshot.getChildren()) {
+                            User tempUser = child.getValue(User.class);
+                            String usernameEntered = usernameTextView.getText().toString();
+                            String passwordEntered = passwordTextView.getText().toString();
+
+                            if (tempUser != null
+                                    && usernameEntered.equals(tempUser.getUsername())
+                                    && passwordEntered.equals(tempUser.getPassword())) {
+                                incorrectDetailsTextView.setVisibility(View.INVISIBLE);
+                                Intent loginIntent = new Intent(MainActivity.this,
+                                        LoginSuccessfulActivity.class);
+                                startActivity(loginIntent);
+                                correct = true;
+                            }
+                        }
+
+                        if (!correct) { incorrectDetailsTextView.setVisibility(View.VISIBLE); }
                     }
-                }
+
+                    @Override
+                    public void onCancelled(DatabaseError databaseError) {
+
+                    }
+                });
             }
         });
 
