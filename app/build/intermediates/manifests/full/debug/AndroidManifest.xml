@@ -6,11 +6,11 @@
 
     <uses-sdk
         android:minSdkVersion="24"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="25" />
 
     <meta-data
         android:name="android.support.VERSION"
-        android:value="26.0.0-alpha1" />
+        android:value="25.3.1" />
 
     <application
         android:allowBackup="true"
@@ -29,6 +29,15 @@
         <activity
             android:name="com.example.shouryakhare.cs2340_rat_app.Controller.LoginSuccessfulActivity"
             android:label="@string/title_activity_login_successful"
+            android:parentActivityName="com.example.shouryakhare.cs2340_rat_app.Controller.MainActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.shouryakhare.cs2340_rat_app.Controller.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.shouryakhare.cs2340_rat_app.Controller.RegistrationActivity"
+            android:label="RegistrationActivity"
             android:parentActivityName="com.example.shouryakhare.cs2340_rat_app.Controller.MainActivity"
             android:theme="@style/AppTheme" >
             <meta-data

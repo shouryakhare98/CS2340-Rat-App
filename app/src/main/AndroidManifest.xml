@@ -25,6 +25,15 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.shouryakhare.cs2340_rat_app.Controller.MainActivity" />
         </activity>
+        <activity
+            android:name=".Controller.RegistrationActivity"
+            android:label="RegistrationActivity"
+            android:parentActivityName=".Controller.MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.shouryakhare.cs2340_rat_app.Controller.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

@@ -19,16 +19,23 @@ public class User {
     private String password;
 
     /*
+    Represents whether user is admin or normal.
+     */
+    private boolean admin;
+
+    /*
     Getters
      */
     public String getUsername() { return username; }
     public String getPassword() { return password; }
+    public boolean getAdmin() {return admin; }
 
     /*
-    2 arg constructor
+    3 arg constructor
      */
-    public User(String username, String password) {
+    public User(String username, String password, boolean admin) {
         this.username = username;
         this.password = password;
+        this.admin = admin;
     }
 }

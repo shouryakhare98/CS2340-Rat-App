@@ -1,18 +1,26 @@
 [
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
-        "source": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

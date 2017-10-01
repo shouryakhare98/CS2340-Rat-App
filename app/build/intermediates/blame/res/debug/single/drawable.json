@@ -1,330 +1,494 @@
 [
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\3967a19729da70fed03748f486f4cbf58f5e7005\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_meme.jpg",
+        "source": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\src\\main\\res\\drawable\\android_meme.jpg"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/android_meme.jpg",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/drawable/android_meme.jpg"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/res/drawable/design_snackbar_background.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/notification_bg.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_vector_test.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/background.jpg",
-        "source": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/res/drawable/background.jpg"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/notification_tile_bg.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/android_meme.jpg",
-        "source": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/src/main/res/drawable/android_meme.jpg"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/Users/samshapiro/.android/build-cache/3967a19729da70fed03748f486f4cbf58f5e7005/output/res/drawable/navigation_empty_icon.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/background.jpg",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/drawable/background.jpg"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/notification_bg_low.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\3967a19729da70fed03748f486f4cbf58f5e7005\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/samshapiro/.android/build-cache/3967a19729da70fed03748f486f4cbf58f5e7005/output/res/drawable/design_fab_background.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\src\\main\\res\\drawable\\background.jpg"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/notification_bg.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_vector_test.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/notification_icon_background.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_meme.jpg",
+        "source": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\src\\main\\res\\drawable\\android_meme.jpg"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/res/drawable/design_fab_background.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/notification_icon_background.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/samshapiro/.android/build-cache/b4f0148ddb6732606ecb81f4118268cfea5b3112/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/notification_bg_low.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/res/drawable/navigation_empty_icon.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/samshapiro/Desktop/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/samshapiro/.android/build-cache/3967a19729da70fed03748f486f4cbf58f5e7005/output/res/drawable/design_snackbar_background.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/notification_tile_bg.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7873a502976c1d2f90337186dc29ac5325ea2ec4/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\3967a19729da70fed03748f486f4cbf58f5e7005\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_meme.jpg",
+        "source": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\src\\main\\res\\drawable\\android_meme.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     }
 ]

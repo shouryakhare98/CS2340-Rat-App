@@ -12,4 +12,10 @@
     <string name="mainActivity_incorrectDetails">Incorrect username or password!</string>
 
     <string name="loginSuccessful_logoutButton">Logout</string>
+
+    <string name="register_confirmButton">Confirm</string>
+    <string name="register_cancelButton">Cancel</string>
+    <string name="register_userHeading">Username</string>
+    <string name="register_passHeading">Password</string>
+    <string name="register_adminButton">Admin?</string>
 </resources>

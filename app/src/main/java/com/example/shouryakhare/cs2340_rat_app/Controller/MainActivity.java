@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                user = new User(usernameTextView.getText().toString(), passwordTextView.getText().toString());
+                user = new User(usernameTextView.getText().toString(), passwordTextView.getText().toString(), true);
 
                 if (!user.getUsername().trim().isEmpty() && !user.getPassword().isEmpty()) {
                     if (user.getUsername().equals("user") && user.getPassword().equals("pass")) {
@@ -63,13 +63,16 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        findViewById(R.id.rootLayout).setOnTouchListener(new View.OnTouchListener() {
+        registerButton.setOnClickListener(new View.OnClickListener() {
+
             @Override
-            public boolean onTouch(View v, MotionEvent event) {
-                InputMethodManager imm = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
-                imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
-                return true;
+            public void onClick(View v) {
+
+                Intent registerIntent = new Intent(MainActivity.this, RegistrationActivity.class);
+                startActivity(registerIntent);
+
             }
         });
+
     }
 }
