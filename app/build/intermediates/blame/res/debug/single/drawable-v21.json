@@ -1,55 +1,11 @@
 [
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\3967a19729da70fed03748f486f4cbf58f5e7005\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
         "source": "/Users/shouryakhare/.android/build-cache/e5ac11d8600d26b83961a90e518329115e5f69a7/output/res/drawable-v21/avd_show_password.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\drawable-v21\\avd_show_password.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\3967a19729da70fed03748f486f4cbf58f5e7005\\output\\res\\drawable-v21\\avd_show_password.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\drawable-v21\\avd_show_password.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\drawable-v21\\design_password_eye.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\3967a19729da70fed03748f486f4cbf58f5e7005\\output\\res\\drawable-v21\\design_password_eye.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
@@ -68,60 +24,8 @@
         "source": "/Users/shouryakhare/.android/build-cache/e5ac11d8600d26b83961a90e518329115e5f69a7/output/res/drawable-v21/design_password_eye.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\drawable-v21\\avd_hide_password.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\3967a19729da70fed03748f486f4cbf58f5e7005\\output\\res\\drawable-v21\\avd_hide_password.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/7293e9df6e9247657141148f9898f829e5ba168a/output/res/drawable-v21/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\e5085c9978b5a1b8f914a64882cf6cfef775069e\\output\\res\\drawable-v21\\avd_hide_password.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\Desktop\\repositories\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\shouryakhare\\.android\\build-cache\\7873a502976c1d2f90337186dc29ac5325ea2ec4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\Desktop\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\samshapiro\\.android\\build-cache\\b4f0148ddb6732606ecb81f4118268cfea5b3112\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\4fd1e68c3d98052cac5e0a0e86c3a5b0e78ecc55\\output\\res\\drawable-v21\\design_password_eye.xml"
-    },
-    {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\CS2340-Rat-App\\CS2340-Rat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/C:\\Users\\Josh\\.android\\build-cache\\d5da517bfa5b122fd98b9da7f614043de8a98cbf\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",

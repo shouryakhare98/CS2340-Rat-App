@@ -9,16 +9,6 @@ package com.example.shouryakhare.cs2340_rat_app.Model;
 public class User {
 
     /*
-    Represents next id of user.
-     */
-    private static int NextId = 0;
-
-    /*
-    Represents id of current user.
-     */
-    private int id;
-
-    /*
     Represents full name of user.
      */
     private String fullName;
@@ -45,7 +35,6 @@ public class User {
     public String getPassword() { return password; }
     public boolean getAdmin() { return isAdmin; }
     public String getFullName() { return fullName; }
-    public int getId() { return id; }
 
     /*
     No arg constructor
@@ -53,18 +42,9 @@ public class User {
     public User() {}
 
     /*
-    2 arg constructor
-     */
-    public User(String username, String password) {
-        this.username = username;
-        this.password = password;
-    }
-
-    /*
     4 arg constructor
      */
     public User(String fullName, String username, String password, boolean admin) {
-        this.id = User.NextId++;
         this.fullName = fullName;
         this.username = username;
         this.password = password;
@@ -73,6 +53,6 @@ public class User {
 
     @Override
     public String toString() {
-        return String.valueOf(id) + " " + fullName + " " + username + " " + isAdmin;
+        return fullName + " " + username + " " + isAdmin;
     }
 }

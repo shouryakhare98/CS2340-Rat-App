@@ -50,8 +50,10 @@ public class RegistrationActivity extends AppCompatActivity {
                 user = new User(fullNameTextView.getText().toString(), usernameTextView.getText().toString(),
                         passwordTextView.getText().toString(), adminBox.isChecked());
 
-                mRootRef.child("users").child(String.valueOf(user.getId())).setValue(user);
+                mRootRef.child("users").child(mRootRef.push().getKey()).setValue(user);
 
+                Intent loginIntent = new Intent(RegistrationActivity.this, LoginSuccessfulActivity.class);
+                startActivity(loginIntent);
             }
         });
 
