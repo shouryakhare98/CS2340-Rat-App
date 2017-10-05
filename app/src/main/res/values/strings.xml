@@ -20,4 +20,5 @@
     <string name="register_passHeading">Password</string>
     <string name="register_adminButton">Admin?</string>
     <string name="register_fullNameHeading">Full Name</string>
+    <string name="register_incorrectDetailsTextView">Invalid username or password!</string>
 </resources>

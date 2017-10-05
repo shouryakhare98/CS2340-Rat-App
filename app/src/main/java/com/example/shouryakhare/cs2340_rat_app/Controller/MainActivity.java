@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         /*
-        Hides keyboard if a touched outside TextField.
+        Hides keyboard if touched outside TextField.
          */
         findViewById(R.id.rootLayout).setOnTouchListener(new View.OnTouchListener() {
             @Override

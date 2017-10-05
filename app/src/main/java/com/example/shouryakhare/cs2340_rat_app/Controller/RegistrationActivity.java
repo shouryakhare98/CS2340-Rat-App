@@ -10,10 +10,13 @@ import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.TextView;
 
+import com.example.shouryakhare.cs2340_rat_app.Model.DatabaseHandshake;
 import com.example.shouryakhare.cs2340_rat_app.Model.User;
 import com.example.shouryakhare.cs2340_rat_app.R;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+
+import org.w3c.dom.Text;
 
 /**
  * Created by Josh on 10/1/2017.
@@ -28,6 +31,7 @@ public class RegistrationActivity extends AppCompatActivity {
     private TextView usernameTextView;
     private TextView passwordTextView;
     private TextView fullNameTextView;
+    private TextView incorrectDetails;
     private CheckBox adminBox;
 
     private DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
@@ -42,18 +46,23 @@ public class RegistrationActivity extends AppCompatActivity {
         fullNameTextView = (TextView) findViewById(R.id.register_fullNameTextField);
         usernameTextView = (TextView) findViewById(R.id.register_usernameTextField);
         passwordTextView = (TextView) findViewById(R.id.register_passwordTextField);
+        incorrectDetails = (TextView) findViewById(R.id.register_incorrectDetailsTextView);
         adminBox = (CheckBox) findViewById(R.id.register_adminButton);
+
+        incorrectDetails.setVisibility(View.INVISIBLE);
 
         register.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                user = new User(fullNameTextView.getText().toString(), usernameTextView.getText().toString(),
-                        passwordTextView.getText().toString(), adminBox.isChecked());
-
-                mRootRef.child("users").child(mRootRef.push().getKey()).setValue(user);
-
-                Intent loginIntent = new Intent(RegistrationActivity.this, LoginSuccessfulActivity.class);
-                startActivity(loginIntent);
+                if (!DatabaseHandshake.registerUser(usernameTextView.getText().toString(),
+                        passwordTextView.getText().toString(),
+                        fullNameTextView.getText().toString(),
+                        adminBox.isChecked())) {
+                    incorrectDetails.setVisibility(View.VISIBLE);
+                } else {
+                    Intent loginIntent = new Intent(RegistrationActivity.this, LoginSuccessfulActivity.class);
+                    startActivity(loginIntent);
+                }
             }
         });
 
@@ -66,7 +75,7 @@ public class RegistrationActivity extends AppCompatActivity {
         });
 
         /*
-        Hides keyboard if a touched outside TextField.
+        Hides keyboard if touched outside TextField.
          */
         findViewById(R.id.registrationLayout).setOnTouchListener(new View.OnTouchListener() {
             @Override
