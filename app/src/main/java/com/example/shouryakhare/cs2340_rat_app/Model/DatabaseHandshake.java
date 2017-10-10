@@ -5,6 +5,7 @@ import com.google.firebase.database.FirebaseDatabase;
 
 /**
  * Created by shouryakhare on 10/5/17.
+ * Java class to link with Firebase database.
  */
 
 public class DatabaseHandshake {

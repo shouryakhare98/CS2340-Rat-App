@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 /**
  * Created by shouryakhare on 10/9/17.
+ * POJO representing a rat sighting.
  */
 
 public class RatSighting implements Serializable {

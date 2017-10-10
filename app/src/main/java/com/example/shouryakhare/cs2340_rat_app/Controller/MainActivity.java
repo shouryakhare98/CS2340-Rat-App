@@ -17,6 +17,9 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
+/**
+ * Main Activity with the login screen and register button.
+ */
 public class MainActivity extends AppCompatActivity {
 
     /*

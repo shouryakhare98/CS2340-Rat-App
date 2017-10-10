@@ -7,6 +7,7 @@ import java.util.List;
 
 /**
  * Created by shouryakhare on 10/9/17.
+ * Model containing all rat sightings.
  */
 
 public class SimpleModel {

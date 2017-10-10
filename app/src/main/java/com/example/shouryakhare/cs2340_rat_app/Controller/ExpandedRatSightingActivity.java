@@ -7,6 +7,9 @@ import android.widget.TextView;
 import com.example.shouryakhare.cs2340_rat_app.Model.RatSighting;
 import com.example.shouryakhare.cs2340_rat_app.R;
 
+/**
+ * Activity to show all details about a rat sighting.
+ */
 public class ExpandedRatSightingActivity extends AppCompatActivity {
 
     private TextView heading;

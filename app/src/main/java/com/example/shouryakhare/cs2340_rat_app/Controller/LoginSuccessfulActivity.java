@@ -21,6 +21,9 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Activity to show list view of all rat sightings.
+ */
 public class LoginSuccessfulActivity extends AppCompatActivity {
     public static String TAG = "MY_APP";
 
@@ -52,6 +55,9 @@ public class LoginSuccessfulActivity extends AppCompatActivity {
         });
     }
 
+    /*
+     * Read the CSV file and store in SimpleModel class
+     */
     public void readFile() {
         SimpleModel model = SimpleModel.INSTANCE;
 

@@ -18,6 +18,7 @@ import static com.example.shouryakhare.cs2340_rat_app.R.layout.list_item_text;
 
 /**
  * Created by shouryakhare on 10/9/17.
+ * Adapter to populate recycler view.
  */
 
 public class TextAdapter extends RecyclerView.Adapter {
