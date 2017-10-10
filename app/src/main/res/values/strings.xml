@@ -21,4 +21,14 @@
     <string name="register_adminButton">Admin?</string>
     <string name="register_fullNameHeading">Full Name</string>
     <string name="register_incorrectDetailsTextView">Invalid username or password!</string>
+    <string name="title_activity_expanded_rat_sighting">ExpandedRatSightingActivity</string>
+
+    <string name="expanded_dateHeading">Date Created :</string>
+    <string name="expanded_locationHeading">Location Type :</string>
+    <string name="expanded_zipHeading">Incident Zip :</string>
+    <string name="expanded_addressHeading">Incident Address :</string>
+    <string name="expanded_cityHeading">City :</string>
+    <string name="expanded_boroughHeading">Borough :</string>
+    <string name="expanded_latitudeHeading">Latitude :</string>
+    <string name="expanded_longitudeHeading">Longitude :</string>
 </resources>

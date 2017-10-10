@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,60 +9,27 @@
     tools:context="com.example.shouryakhare.cs2340_rat_app.Controller.LoginSuccessfulActivity">
 
 
-    <include
-        layout="@layout/content_login_successful"
-        android:layout_height="0dp"
-        android:layout_width="0dp"
-        tools:layout_constraintRight_creator="1"
-        tools:layout_constraintBottom_creator="1"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        tools:layout_constraintLeft_creator="1"
-        android:layout_marginBottom="1dp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintHorizontal_bias="0.0" />
-
-    <TextView
-        android:id="@+id/loginSuccessful_heading"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="8dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="83dp"
-        android:fontFamily="casual"
-        android:text="Login Successful"
-        android:textColor="@android:color/white"
-        android:textSize="40sp"
-        android:textStyle="bold"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="395dp"
-        android:layout_height="219dp"
-        android:layout_marginTop="120dp"
-        app:layout_constraintTop_toBottomOf="@+id/loginSuccessful_heading"
-        app:srcCompat="@drawable/android_meme"
-        android:layout_marginLeft="-45dp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintHorizontal_bias="0.541" />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/loginSuccessful_recyclerView"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/loginSuccessful_logoutButton" />
 
     <Button
         android:id="@+id/loginSuccessful_logoutButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginRight="0dp"
-        android:layout_marginTop="-4dp"
+        android:layout_width="87dp"
+        android:layout_height="43dp"
         android:fontFamily="casual"
         android:text="@string/loginSuccessful_logoutButton"
         android:textStyle="bold"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="96dp"
+        tools:layout_editor_absoluteY="13dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="12dp" />
 
-</android.support.constraint.ConstraintLayout>
+
+</RelativeLayout>

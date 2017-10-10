@@ -8,7 +8,9 @@
         android:minSdkVersion="24"
         android:targetSdkVersion="25" />
 
-    <!-- Required permission for App measurement to run. -->
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" /> <!-- Required permission for App measurement to run. -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
@@ -52,10 +54,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.shouryakhare.cs2340_rat_app.Controller.MainActivity" />
         </activity>
-
-        <meta-data
-            android:name="android.support.VERSION"
-            android:value="25.4.0" />
+        <activity
+            android:name="com.example.shouryakhare.cs2340_rat_app.Controller.ExpandedRatSightingActivity"
+            android:label="@string/title_activity_expanded_rat_sighting"
+            android:theme="@style/AppTheme" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
