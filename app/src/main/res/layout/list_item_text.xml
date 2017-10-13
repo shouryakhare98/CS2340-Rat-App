@@ -10,7 +10,7 @@
         android:id="@+id/lit_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="17dp"
+        android:textSize="17sp"
         android:textStyle="bold"
         android:fontFamily="casual"
         android:textColor="@android:color/white"

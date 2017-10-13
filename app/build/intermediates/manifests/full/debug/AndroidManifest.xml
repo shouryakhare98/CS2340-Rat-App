@@ -58,6 +58,10 @@
             android:name="com.example.shouryakhare.cs2340_rat_app.Controller.ExpandedRatSightingActivity"
             android:label="@string/title_activity_expanded_rat_sighting"
             android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.example.shouryakhare.cs2340_rat_app.Controller.ReportSightingActivity"
+            android:label="@string/title_activity_report_sighting"
+            android:theme="@style/AppTheme" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

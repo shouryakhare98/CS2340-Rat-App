@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
+        jar="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5548e99ff7b0d628d0441362ab1210b9ca1399ff">
+        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c3789c94e7ac19436b211c590d28ab3789a22f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7fcc5fda51f58c0b105e35c24e8d830b0b47191c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="1b0acec9a17c400f6e67d63b12b3f2c3254df38f">
-        <dex dex="/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c3789c94e7ac19436b211c590d28ab3789a22f1/classes.dex" />
     </item>
 
 </items>

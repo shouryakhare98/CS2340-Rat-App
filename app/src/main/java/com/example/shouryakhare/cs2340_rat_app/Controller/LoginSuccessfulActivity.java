@@ -28,6 +28,7 @@ public class LoginSuccessfulActivity extends AppCompatActivity {
     public static String TAG = "MY_APP";
 
     private Button logout;
+    private Button reportSighting;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,6 +52,15 @@ public class LoginSuccessfulActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent logoutIntent = new Intent(LoginSuccessfulActivity.this, MainActivity.class);
                 startActivity(logoutIntent);
+            }
+        });
+
+        reportSighting = (Button) findViewById(R.id.loginSuccessful_addReportButton);
+        reportSighting.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent reportSightingIntent = new Intent(LoginSuccessfulActivity.this, ReportSightingActivity.class);
+                startActivity(reportSightingIntent);
             }
         });
     }

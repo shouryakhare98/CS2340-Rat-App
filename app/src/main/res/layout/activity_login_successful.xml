@@ -17,19 +17,30 @@
 
     <Button
         android:id="@+id/loginSuccessful_logoutButton"
-        android:layout_width="87dp"
-        android:layout_height="43dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="78dp"
+        android:layout_marginRight="96dp"
         android:fontFamily="casual"
         android:text="@string/loginSuccessful_logoutButton"
         android:textStyle="bold"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginTop="8dp"
-        android:layout_marginRight="96dp"
         tools:layout_editor_absoluteY="13dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginEnd="12dp" />
+        tools:ignore="RelativeOverlap,RtlHardcoded" />
+
+    <Button
+        android:id="@+id/loginSuccessful_addReportButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:fontFamily="casual"
+        android:text="@string/loginSuccessful_addReportButton"
+        android:textStyle="bold" />
 
 
 </RelativeLayout>

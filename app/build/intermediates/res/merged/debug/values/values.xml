@@ -698,6 +698,7 @@
     <string name="google_app_id" translatable="false">1:851068353458:android:0bcadd9344ce31e1</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDIQI50CAGYNws9QcPtgjkzVKAiu1T3A7w</string>
     <string name="google_storage_bucket" translatable="false">rattata-24106.appspot.com</string>
+    <string name="loginSuccessful_addReportButton">Report Sighting</string>
     <string name="loginSuccessful_logoutButton">Logout</string>
     <string name="mainActivity_heading">Rattata</string>
     <string name="mainActivity_incorrectDetails">Incorrect username or password!</string>
@@ -720,11 +721,19 @@
     <string name="register_mainHeading">Register</string>
     <string name="register_passHeading">Password</string>
     <string name="register_userHeading">Username</string>
+    <string name="reportSighting_addressHeading">Incident Address:</string>
+    <string name="reportSighting_boroughHeading">Borough:</string>
+    <string name="reportSighting_cityHeading">City:</string>
+    <string name="reportSighting_heading">Report Sighting</string>
+    <string name="reportSighting_locationType">Location Type:</string>
+    <string name="reportSighting_submitButton">Submit</string>
+    <string name="reportSighting_zipHeading">Incident Zip:</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_expanded_rat_sighting">ExpandedRatSightingActivity</string>
     <string name="title_activity_login_successful">LoginSuccessfulActivity</string>
     <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_report_sighting">ReportSightingActivity</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
