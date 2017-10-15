@@ -9,6 +9,8 @@ import java.io.Serializable;
 
 public class RatSighting implements Serializable {
 
+    public static long uniqueId = 32000000;
+
     private long uniqueKey;
     private String createdDate;
     private String locationType;
@@ -32,6 +34,8 @@ public class RatSighting implements Serializable {
         this.borough = borough;
         this.longitude = longitude;
         this.latitude = latitude;
+
+        uniqueId++;
     }
 
     public long getUniqueKey() {

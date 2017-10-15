@@ -27,6 +27,10 @@ public class SimpleModel {
         return items;
     }
 
+    public void setItems(List<RatSighting> items) { this.items = items; }
+
+    public void reset() { INSTANCE.setItems(new ArrayList<RatSighting>()); }
+
     public RatSighting findItemById(long id) {
         for (RatSighting d : items) {
             if (d.getUniqueKey() == id) return d;

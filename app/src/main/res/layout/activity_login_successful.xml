@@ -35,12 +35,12 @@
         android:id="@+id/loginSuccessful_addReportButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="50dp"
+        android:layout_marginStart="72dp"
         android:fontFamily="casual"
         android:text="@string/loginSuccessful_addReportButton"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
 
 
 </RelativeLayout>

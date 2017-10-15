@@ -44,16 +44,16 @@
         "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/activity_registration.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/layout/activity_registration.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/activity_registration.xml",
-        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/layout/activity_registration.xml"
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",

@@ -1,7 +1,13 @@
 package com.example.shouryakhare.cs2340_rat_app.Model;
 
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 
 /**
  * Created by shouryakhare on 10/5/17.
@@ -25,5 +31,33 @@ public class DatabaseHandshake {
         }
 
         return false;
+    }
+
+    public static boolean addSighting(String locationType, String address, String zip, String city,
+                                   String borough, String latitude, String longitude) {
+        if (locationType.isEmpty() || address.isEmpty() || zip.isEmpty() || city.isEmpty()
+                || borough.isEmpty() || latitude.isEmpty() || longitude.isEmpty()) {
+            return false;
+        }
+
+        double latitudeNum;
+        double longitudeNum;
+
+        try {
+            latitudeNum = Double.parseDouble(latitude);
+            longitudeNum = Double.parseDouble(longitude);
+        } catch (NumberFormatException e) {
+            return false;
+        }
+
+        SimpleDateFormat format = new SimpleDateFormat("MM/dd/YYYY hh:mm:ss a");
+        String createdDate = format.format(Calendar.getInstance().getTime());
+
+        RatSighting sighting = new RatSighting(RatSighting.uniqueId, createdDate, locationType,
+                Long.parseLong(zip), address, city, borough, latitudeNum, longitudeNum);
+
+        mRootRef.child("rat_data").child(mRootRef.push().getKey()).setValue(sighting);
+
+        return true;
     }
 }

@@ -9,17 +9,20 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
+import com.example.shouryakhare.cs2340_rat_app.Model.DatabaseHandshake;
 import com.example.shouryakhare.cs2340_rat_app.Model.RatSighting;
 import com.example.shouryakhare.cs2340_rat_app.Model.SimpleModel;
 import com.example.shouryakhare.cs2340_rat_app.R;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Activity to show list view of all rat sightings.
@@ -35,16 +38,32 @@ public class LoginSuccessfulActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login_successful);
 
-        readFile();
-
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.loginSuccessful_recyclerView);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
-        TextAdapter textAdapter = new TextAdapter();
+        final TextAdapter textAdapter = new TextAdapter();
         recyclerView.setAdapter(textAdapter);
 
-        SimpleModel model = SimpleModel.INSTANCE;
-        textAdapter.setItems(model.getItems());
+        DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
+        mRootRef.child("rat_data").addValueEventListener(new ValueEventListener() {
+
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                SimpleModel model = SimpleModel.INSTANCE;
+                model.reset();
+                for (DataSnapshot child : dataSnapshot.getChildren()) {
+                    RatSighting temp = child.getValue(RatSighting.class);
+                    model.addItem(temp);
+                }
+                readFile();
+                textAdapter.setItems(model.getItems());
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+
+            }
+        });
 
         logout = (Button) findViewById(R.id.loginSuccessful_logoutButton);
         logout.setOnClickListener(new View.OnClickListener() {
@@ -93,5 +112,4 @@ public class LoginSuccessfulActivity extends AppCompatActivity {
             Log.e(LoginSuccessfulActivity.TAG, "error reading assets", e);
         }
     }
-
 }
