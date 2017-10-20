@@ -72,6 +72,10 @@
         "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/content_new_login_successful.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/layout/content_new_login_successful.xml"
+    },
+    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
@@ -150,6 +154,10 @@
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/Users/shouryakhare/.android/build-cache/88f853a794a2cdc68c69ead8e760c8da5fb613cd/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/activity_new_login_successful.xml",
+        "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/layout/activity_new_login_successful.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",

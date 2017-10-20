@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
                                     && passwordEntered.equals(tempUser.getPassword())) {
                                 incorrectDetailsTextView.setVisibility(View.INVISIBLE);
                                 Intent loginIntent = new Intent(MainActivity.this,
-                                        LoginSuccessfulActivity.class);
+                                        NewLoginSuccessfulActivity.class);
                                 startActivity(loginIntent);
                                 correct = true;
                             }

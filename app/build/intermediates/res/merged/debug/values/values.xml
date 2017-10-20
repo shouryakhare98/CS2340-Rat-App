@@ -699,7 +699,7 @@
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDIQI50CAGYNws9QcPtgjkzVKAiu1T3A7w</string>
     <string name="google_storage_bucket" translatable="false">rattata-24106.appspot.com</string>
     <string name="loginSuccessful_addReportButton">Report</string>
-    <string name="loginSuccessful_logoutButton">Logout</string>
+    <string name="loginSuccessful_homeButton">Home</string>
     <string name="mainActivity_heading">Rattata</string>
     <string name="mainActivity_incorrectDetails">Incorrect username or password!</string>
     <string name="mainActivity_loginButton">LOGIN</string>
@@ -707,6 +707,10 @@
     <string name="mainActivity_password">Password</string>
     <string name="mainActivity_registerButton">REGISTER</string>
     <string name="mainActivity_username">Username</string>
+    <string name="mainMenu_heading">Main Menu</string>
+    <string name="mainMenu_listView">List View</string>
+    <string name="mainMenu_logout">Logout</string>
+    <string name="mainMenu_mapView">Map View</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -737,6 +741,7 @@
     <string name="title_activity_expanded_rat_sighting">ExpandedRatSightingActivity</string>
     <string name="title_activity_login_successful">LoginSuccessfulActivity</string>
     <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_new_login_successful">NewLoginSuccessfulActivity</string>
     <string name="title_activity_report_sighting">ReportSightingActivity</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

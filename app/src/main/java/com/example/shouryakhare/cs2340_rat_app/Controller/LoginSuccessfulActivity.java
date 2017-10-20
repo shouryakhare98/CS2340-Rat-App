@@ -30,7 +30,7 @@ import java.nio.charset.StandardCharsets;
 public class LoginSuccessfulActivity extends AppCompatActivity {
     public static String TAG = "MY_APP";
 
-    private Button logout;
+    private Button home;
     private Button reportSighting;
 
     @Override
@@ -65,12 +65,13 @@ public class LoginSuccessfulActivity extends AppCompatActivity {
             }
         });
 
-        logout = (Button) findViewById(R.id.loginSuccessful_logoutButton);
-        logout.setOnClickListener(new View.OnClickListener() {
+        home = (Button) findViewById(R.id.loginSuccessful_logoutButton);
+        home.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent logoutIntent = new Intent(LoginSuccessfulActivity.this, MainActivity.class);
-                startActivity(logoutIntent);
+                Intent homeIntent = new Intent(LoginSuccessfulActivity.this,
+                        NewLoginSuccessfulActivity.class);
+                startActivity(homeIntent);
             }
         });
 

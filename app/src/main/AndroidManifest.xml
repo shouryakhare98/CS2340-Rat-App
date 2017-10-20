@@ -41,6 +41,10 @@
         <activity
             android:name=".Controller.ReportSightingActivity"
             android:label="@string/title_activity_report_sighting"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Controller.NewLoginSuccessfulActivity"
+            android:label="@string/title_activity_new_login_successful"
             android:theme="@style/AppTheme"></activity>
     </application>
 
