@@ -15,6 +15,10 @@
     <string name="mainMenu_mapView">Map View</string>
     <string name="mainMenu_listView">List View</string>
     <string name="mainMenu_logout">Logout</string>
+    <string name="mainMenu_fromYear">From Year:</string>
+    <string name="mainMenu_tillYear">Till Year:</string>
+    <string name="mainMenu_incorrectYear">Invalid inputs!</string>
+    <string name="mainMenu_report">Report Sighting</string>
 
     <string name="loginSuccessful_homeButton">Home</string>
     <string name="loginSuccessful_addReportButton">Report</string>
@@ -51,4 +55,5 @@
     <string name="reportSighting_longitudeHeading">Longitude:</string>
     <string name="reportSighting_incorrectDetails">Incorrect Details!</string>
     <string name="title_activity_new_login_successful">NewLoginSuccessfulActivity</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

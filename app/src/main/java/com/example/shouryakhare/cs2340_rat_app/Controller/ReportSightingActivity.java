@@ -48,7 +48,7 @@ public class ReportSightingActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent cancelIntent = new Intent(ReportSightingActivity.this,
-                        LoginSuccessfulActivity.class);
+                        NewLoginSuccessfulActivity.class);
                 startActivity(cancelIntent);
             }
         });
@@ -99,7 +99,7 @@ public class ReportSightingActivity extends AppCompatActivity {
             incorrectDetails.setVisibility(View.VISIBLE);
         } else {
             Intent doneIntent = new Intent(ReportSightingActivity.this,
-                    LoginSuccessfulActivity.class);
+                    NewLoginSuccessfulActivity.class);
             startActivity(doneIntent);
         }
     }
