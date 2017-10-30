@@ -67,7 +67,11 @@
 
         <activity
             android:name=".Controller.MapsActivity"
-            android:label="@string/title_activity_maps"></activity>
+            android:label="@string/title_activity_maps" />
+        <activity
+            android:name=".Controller.GraphViewActivity"
+            android:label="@string/title_activity_graph_view"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>

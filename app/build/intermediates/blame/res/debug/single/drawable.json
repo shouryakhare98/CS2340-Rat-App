@@ -16,12 +16,12 @@
         "source": "/Users/shouryakhare/.android/build-cache/928cf3e52a67d23bc60e7511aab3e32c4ee48d57/output/res/drawable/cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/e38f52b2c2d6dbf8c9f582cd1ee89044d5baa217/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
-    },
-    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
         "source": "/Users/shouryakhare/.android/build-cache/734360464b990e9c2eb094f50a78b36f193786db/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/Users/shouryakhare/.android/build-cache/e38f52b2c2d6dbf8c9f582cd1ee89044d5baa217/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
     },
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",

@@ -13,7 +13,7 @@
         android:label="Tests for com.example.shouryakhare.cs2340_rat_app"
         android:targetPackage="com.example.shouryakhare.cs2340_rat_app" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

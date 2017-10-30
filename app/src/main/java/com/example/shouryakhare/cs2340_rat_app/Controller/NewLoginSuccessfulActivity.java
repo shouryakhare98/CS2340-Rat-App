@@ -15,12 +15,18 @@ import com.example.shouryakhare.cs2340_rat_app.R;
 public class NewLoginSuccessfulActivity extends AppCompatActivity {
 
     private Button mapView;
+    private Button graphView;
     private Button listView;
     private Button logout;
     private Button reportSighting;
-    private EditText fromYear;
-    private EditText tillYear;
-    private TextView incorrectYears;
+
+    private EditText fromYearMap;
+    private EditText tillYearMap;
+    private TextView incorrectYearsMap;
+
+    private EditText fromYearGraph;
+    private EditText tillYearGraph;
+    private TextView incorrectYearsGraph;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,29 +34,57 @@ public class NewLoginSuccessfulActivity extends AppCompatActivity {
         setContentView(R.layout.activity_new_login_successful);
 
         mapView = (Button) findViewById(R.id.mainMenu_mapViewButton);
+        graphView = (Button) findViewById(R.id.mainMenu_graphViewButton);
         listView = (Button) findViewById(R.id.mainMenu_listViewButton);
         logout = (Button) findViewById(R.id.mainMenu_logoutButton);
         reportSighting = (Button) findViewById(R.id.mainMenu_reportSightingButton);
-        fromYear = (EditText) findViewById(R.id.mainMenu_fromYearEditText);
-        tillYear = (EditText) findViewById(R.id.mainMenu_tillYearEditText);
-        incorrectYears = (TextView) findViewById(R.id.mainMenu_incorrectYearTextView);
 
-        incorrectYears.setVisibility(View.INVISIBLE);
+        fromYearMap = (EditText) findViewById(R.id.mainMenu_fromYearEditText);
+        tillYearMap = (EditText) findViewById(R.id.mainMenu_tillYearEditText);
+        incorrectYearsMap = (TextView) findViewById(R.id.mainMenu_incorrectYearTextView);
+        incorrectYearsMap.setVisibility(View.INVISIBLE);
+
+        fromYearGraph = (EditText) findViewById(R.id.mainMenu_fromYearGraphEditText);
+        tillYearGraph = (EditText) findViewById(R.id.mainMenu_tillYearGraphEditText);
+        incorrectYearsGraph = (TextView) findViewById(R.id.mainMenu_incorrectDetailsTextView2);
+        incorrectYearsGraph.setVisibility(View.INVISIBLE);
 
         mapView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 try {
-                    int from = Integer.parseInt(fromYear.getText().toString().trim());
-                    int till = Integer.parseInt(tillYear.getText().toString().trim());
+                    int from = Integer.parseInt(fromYearMap.getText().toString().trim());
+                    int till = Integer.parseInt(tillYearMap.getText().toString().trim());
                     Intent mapViewIntent = new Intent(NewLoginSuccessfulActivity.this,
                             MapsActivity.class);
                     mapViewIntent.putExtra("fromYear", from);
                     mapViewIntent.putExtra("tillYear", till);
+                    incorrectYearsMap.setVisibility(View.INVISIBLE);
+                    incorrectYearsGraph.setVisibility(View.INVISIBLE);
                     startActivity(mapViewIntent);
 
                 } catch (NumberFormatException e) {
-                    incorrectYears.setVisibility(View.VISIBLE);
+                    incorrectYearsMap.setVisibility(View.VISIBLE);
+                }
+            }
+        });
+
+        graphView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try {
+                    int from = Integer.parseInt(fromYearGraph.getText().toString().trim());
+                    int till = Integer.parseInt(tillYearGraph.getText().toString().trim());
+                    Intent mapViewIntent = new Intent(NewLoginSuccessfulActivity.this,
+                            GraphViewActivity.class);
+                    mapViewIntent.putExtra("fromYear", from);
+                    mapViewIntent.putExtra("tillYear", till);
+                    incorrectYearsGraph.setVisibility(View.INVISIBLE);
+                    incorrectYearsMap.setVisibility(View.INVISIBLE);
+                    startActivity(mapViewIntent);
+
+                } catch (NumberFormatException e) {
+                    incorrectYearsGraph.setVisibility(View.VISIBLE);
                 }
             }
         });
