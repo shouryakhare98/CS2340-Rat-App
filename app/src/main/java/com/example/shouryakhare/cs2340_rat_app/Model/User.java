@@ -33,8 +33,6 @@ public class User {
      */
     public String getUsername() { return username; }
     public String getPassword() { return password; }
-    public boolean getAdmin() { return isAdmin; }
-    public String getFullName() { return fullName; }
 
     /*
     No arg constructor
@@ -44,7 +42,7 @@ public class User {
     /*
     4 arg constructor
      */
-    public User(String fullName, String username, String password, boolean admin) {
+    User(String fullName, String username, String password, boolean admin) {
         this.fullName = fullName;
         this.username = username;
         this.password = password;

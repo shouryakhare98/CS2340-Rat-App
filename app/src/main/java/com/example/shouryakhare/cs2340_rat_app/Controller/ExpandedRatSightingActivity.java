@@ -12,20 +12,20 @@ import com.example.shouryakhare.cs2340_rat_app.R;
  */
 public class ExpandedRatSightingActivity extends AppCompatActivity {
 
-    private TextView heading;
-    private TextView date;
-    private TextView locationType;
-    private TextView zip;
-    private TextView address;
-    private TextView city;
-    private TextView borough;
-    private TextView latitude;
-    private TextView longitude;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_expanded_rat_sighting);
+
+        TextView heading;
+        TextView date;
+        TextView locationType;
+        TextView zip;
+        TextView address;
+        TextView city;
+        TextView borough;
+        TextView latitude;
+        TextView longitude;
 
         heading = (TextView) findViewById(R.id.expanded_Heading);
         date = (TextView) findViewById(R.id.expanded_dateTextView);
@@ -39,14 +39,23 @@ public class ExpandedRatSightingActivity extends AppCompatActivity {
 
         RatSighting ratSighting = (RatSighting) getIntent().getSerializableExtra("RatSighting");
 
-        heading.setText("Rat Sighting #" + ratSighting.getUniqueKey());
+        String headingText = "Rat Sighting #" + ratSighting.getUniqueKey();
+        heading.setText(headingText);
+
         date.setText(ratSighting.getCreatedDate());
+
         locationType.setText(ratSighting.getLocationType());
-        zip.setText(Long.toString(ratSighting.getIncidentZip()));
+
+        zip.setText(String.valueOf(ratSighting.getIncidentZip()));
+
         address.setText(ratSighting.getIncidentAddress());
+
         city.setText(ratSighting.getCity());
+
         borough.setText(ratSighting.getBorough());
-        latitude.setText(Double.toString(ratSighting.getLatitude()));
-        longitude.setText(Double.toString(ratSighting.getLongitude()));
+
+        latitude.setText(String.valueOf(ratSighting.getLatitude()));
+
+        longitude.setText(String.valueOf(ratSighting.getLongitude()));
     }
 }

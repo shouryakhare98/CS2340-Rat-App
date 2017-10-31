@@ -24,8 +24,6 @@ import com.google.firebase.database.ValueEventListener;
 public class LoginSuccessfulActivity extends AppCompatActivity {
     public static String TAG = "MY_APP";
 
-    private Button home;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -58,6 +56,7 @@ public class LoginSuccessfulActivity extends AppCompatActivity {
             }
         });
 
+        Button home;
         home = (Button) findViewById(R.id.loginSuccessful_logoutButton);
         home.setOnClickListener(new View.OnClickListener() {
             @Override

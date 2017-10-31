@@ -19,8 +19,11 @@ public class RatSighting implements Serializable {
     private double longitude;
     private double latitude;
 
+    /*
+    Constructors required.
+     */
     public RatSighting() {}
-    public RatSighting(long uniqueKey, String createdDate, String locationType, long incidentZip,
+    RatSighting(long uniqueKey, String createdDate, String locationType, long incidentZip,
                        String incidentAddress, String city, String borough, double longitude,
                        double latitude) {
         this.uniqueKey = uniqueKey;
@@ -34,11 +37,14 @@ public class RatSighting implements Serializable {
         this.latitude = latitude;
     }
 
+    /*
+    Getters and setters.
+     */
     public long getUniqueKey() {
         return uniqueKey;
     }
 
-    public void setUniqueKey(long uniqueKey) {
+    void setUniqueKey(long uniqueKey) {
         this.uniqueKey = uniqueKey;
     }
 
@@ -46,64 +52,32 @@ public class RatSighting implements Serializable {
         return createdDate;
     }
 
-    public void setCreatedDate(String createdDate) {
-        this.createdDate = createdDate;
-    }
-
     public String getLocationType() {
         return locationType;
-    }
-
-    public void setLocationType(String locationType) {
-        this.locationType = locationType;
     }
 
     public long getIncidentZip() {
         return incidentZip;
     }
 
-    public void setIncidentZip(long incidentZip) {
-        this.incidentZip = incidentZip;
-    }
-
     public String getIncidentAddress() {
         return incidentAddress;
-    }
-
-    public void setIncidentAddress(String incidentAddress) {
-        this.incidentAddress = incidentAddress;
     }
 
     public String getCity() {
         return city;
     }
 
-    public void setCity(String city) {
-        this.city = city;
-    }
-
     public String getBorough() {
         return borough;
-    }
-
-    public void setBorough(String borough) {
-        this.borough = borough;
     }
 
     public double getLongitude() {
         return longitude;
     }
 
-    public void setLongitude(double longitude) {
-        this.longitude = longitude;
-    }
-
     public double getLatitude() {
         return latitude;
-    }
-
-    public void setLatitude(double latitude) {
-        this.latitude = latitude;
     }
 
     public String toString() {

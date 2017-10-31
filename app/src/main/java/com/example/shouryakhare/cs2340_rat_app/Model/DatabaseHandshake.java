@@ -20,14 +20,21 @@ import java.util.Calendar;
 
 /**
  * Created by shouryakhare on 10/5/17.
- * Java class to link with Firebase database.
+ * Java class to link with Firebase database and read CSV file.
  */
-
 public class DatabaseHandshake {
 
     private static DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
     private static RatSighting sighting;
 
+    /**
+     * Method to register a user and add to database.
+     * @param username The username entered by the user.
+     * @param password The password entered by the user.
+     * @param fullName The full name of the user.
+     * @param isAdmin Whether user is admin or not.
+     * @return Whether user was added or not.
+     */
     public static boolean registerUser(String username, String password, String fullName, boolean isAdmin) {
 
         if (!username.trim().isEmpty()
@@ -43,6 +50,17 @@ public class DatabaseHandshake {
         return false;
     }
 
+    /**
+     * Method to add a sighting to the database.
+     * @param locationType Location type of sighting.
+     * @param address Address of sighting.
+     * @param zip Zip of sighting.
+     * @param city City of sighting.
+     * @param borough Borough of sighting.
+     * @param latitude Latitude of sighting.
+     * @param longitude Longitude of sighting.
+     * @return Whether sighting was added or not.
+     */
     public static boolean addSighting(final String locationType, final String address, final String zip,
                                       final String city, final String borough, String latitude,
                                       String longitude) {
@@ -99,8 +117,9 @@ public class DatabaseHandshake {
         return true;
     }
 
-    /*
-     * Read the CSV file and store in SimpleModel class
+    /**
+     * Method to read CSV file with rat data.
+     * @param context The context of the activity calling the method (used to open raw file)
      */
     public static void readFile(Context context) {
         SimpleModel model = SimpleModel.INSTANCE;

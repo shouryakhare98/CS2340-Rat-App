@@ -28,8 +28,6 @@ public class MainActivity extends AppCompatActivity {
     private TextView usernameTextView;
     private TextView passwordTextView;
     private TextView incorrectDetailsTextView;
-    private Button loginButton;
-    private Button registerButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,6 +40,9 @@ public class MainActivity extends AppCompatActivity {
         usernameTextView = (TextView) findViewById(R.id.mainActivity_usernameTextField);
         passwordTextView = (TextView) findViewById(R.id.mainActivity_passwordTextField);
         incorrectDetailsTextView = (TextView) findViewById(R.id.mainActivity_incorrectDetails);
+
+        Button loginButton;
+        Button registerButton;
         loginButton = (Button) findViewById(R.id.mainActivity_loginButton);
         registerButton = (Button) findViewById(R.id.mainActivity_registerButton);
 

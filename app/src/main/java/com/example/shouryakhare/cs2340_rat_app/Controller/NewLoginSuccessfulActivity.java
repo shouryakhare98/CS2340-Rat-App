@@ -14,12 +14,6 @@ import com.example.shouryakhare.cs2340_rat_app.R;
 
 public class NewLoginSuccessfulActivity extends AppCompatActivity {
 
-    private Button mapView;
-    private Button graphView;
-    private Button listView;
-    private Button logout;
-    private Button reportSighting;
-
     private EditText fromYearMap;
     private EditText tillYearMap;
     private TextView incorrectYearsMap;
@@ -33,6 +27,11 @@ public class NewLoginSuccessfulActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_new_login_successful);
 
+        Button mapView;
+        Button graphView;
+        Button listView;
+        Button logout;
+        Button reportSighting;
         mapView = (Button) findViewById(R.id.mainMenu_mapViewButton);
         graphView = (Button) findViewById(R.id.mainMenu_graphViewButton);
         listView = (Button) findViewById(R.id.mainMenu_listViewButton);

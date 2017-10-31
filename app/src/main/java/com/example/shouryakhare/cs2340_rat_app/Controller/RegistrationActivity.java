@@ -11,36 +11,30 @@ import android.widget.CheckBox;
 import android.widget.TextView;
 
 import com.example.shouryakhare.cs2340_rat_app.Model.DatabaseHandshake;
-import com.example.shouryakhare.cs2340_rat_app.Model.User;
 import com.example.shouryakhare.cs2340_rat_app.R;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
-import org.w3c.dom.Text;
-
 /**
  * Created by Josh on 10/1/2017.
+ * Activity to register a user into the database.
  */
 
 public class RegistrationActivity extends AppCompatActivity {
 
-    private User user;
-
-    private Button cancel;
-    private Button register;
     private TextView usernameTextView;
     private TextView passwordTextView;
     private TextView fullNameTextView;
     private TextView incorrectDetails;
     private CheckBox adminBox;
 
-    private DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_registration);
 
+        Button cancel;
+        Button register;
         register = (Button) findViewById(R.id.registration_confirmButton);
         cancel = (Button) findViewById(R.id.registration_cancelButton);
         fullNameTextView = (TextView) findViewById(R.id.register_fullNameTextField);

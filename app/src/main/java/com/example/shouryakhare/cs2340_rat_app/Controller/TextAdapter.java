@@ -26,7 +26,7 @@ public class TextAdapter extends RecyclerView.Adapter {
     private List<RatSighting> mRatList = new ArrayList<>();
     private List<String> mList = new ArrayList<>();
 
-    public void setItems(List<RatSighting> list) {
+    void setItems(List<RatSighting> list) {
         mRatList = list;
         for (RatSighting sighting : mRatList) {
             mList.add(sighting.toString());
@@ -73,21 +73,21 @@ public class TextAdapter extends RecyclerView.Adapter {
     static class TextViewHolder extends RecyclerView.ViewHolder {
 
         private TextView mTextView;
-        public LinearLayout linearLayout;
+        LinearLayout linearLayout;
 
-        public static TextViewHolder inflate(ViewGroup parent) {
+        static TextViewHolder inflate(ViewGroup parent) {
             View view = LayoutInflater.from(parent.getContext()).inflate(list_item_text, parent, false);
             return new TextViewHolder(view);
         }
 
-        public TextViewHolder(View itemView) {
+        TextViewHolder(View itemView) {
             super(itemView);
 
             mTextView = (TextView) itemView.findViewById(R.id.lit_text);
             linearLayout = (LinearLayout) itemView.findViewById(R.id.linearLayout);
         }
 
-        public void bind(String text) {
+        void bind(String text) {
             mTextView.setText(text);
         }
     }

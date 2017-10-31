@@ -21,13 +21,15 @@ import com.jjoe64.graphview.GraphView;
 import com.jjoe64.graphview.series.DataPoint;
 import com.jjoe64.graphview.series.LineGraphSeries;
 
+/**
+ * Activity to show a line graph of rat-data.
+ */
 public class GraphViewActivity extends AppCompatActivity {
 
     private GraphView graph;
     private String[] xAxisValues;
     private int[] yAxisValues;
     private SimpleModel model = SimpleModel.INSTANCE;
-    private Button home;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +39,7 @@ public class GraphViewActivity extends AppCompatActivity {
         graph = (GraphView) findViewById(R.id.graphView_lineChart);
         graph.setBackgroundColor(Color.WHITE);
 
+        Button home;
         home = (Button) findViewById(R.id.graphView_homeButton);
 
         model.reset();
@@ -71,6 +74,9 @@ public class GraphViewActivity extends AppCompatActivity {
         });
     }
 
+    /**
+     * Method to get labels for the X-Axis of the graph.
+     */
     private void getXAxisValues() {
         Bundle bundle = getIntent().getExtras();
         int from = bundle.getInt("fromYear");
@@ -92,6 +98,9 @@ public class GraphViewActivity extends AppCompatActivity {
         }
     }
 
+    /**
+     * Method to get Y-Axis values.
+     */
     private void getYAxisValues() {
         Bundle bundle = getIntent().getExtras();
         int from = bundle.getInt("fromYear");
@@ -109,6 +118,9 @@ public class GraphViewActivity extends AppCompatActivity {
         }
     }
 
+    /**
+     * Method to plot data on screen.
+     */
     private void plotData() {
         Bundle bundle = getIntent().getExtras();
         int from = bundle.getInt("fromYear");

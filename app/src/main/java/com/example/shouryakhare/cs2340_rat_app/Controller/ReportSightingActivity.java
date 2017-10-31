@@ -12,6 +12,9 @@ import android.widget.TextView;
 import com.example.shouryakhare.cs2340_rat_app.Model.DatabaseHandshake;
 import com.example.shouryakhare.cs2340_rat_app.R;
 
+/**
+ * Activity to report a sighting.
+ */
 public class ReportSightingActivity extends AppCompatActivity {
 
     private TextView locationType;
@@ -22,9 +25,6 @@ public class ReportSightingActivity extends AppCompatActivity {
     private TextView latitude;
     private TextView longitude;
     private TextView incorrectDetails;
-
-    private Button submit;
-    private Button cancel;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,6 +41,8 @@ public class ReportSightingActivity extends AppCompatActivity {
         incorrectDetails = (TextView) findViewById(R.id.reportSighting_incorrectDetailsTextView);
         incorrectDetails.setVisibility(View.INVISIBLE);
 
+        Button submit;
+        Button cancel;
         submit = (Button) findViewById(R.id.reportSighting_submitButton);
         cancel = (Button) findViewById(R.id.reportSighting_cancelButton);
 
@@ -85,6 +87,9 @@ public class ReportSightingActivity extends AppCompatActivity {
         });
     }
 
+    /**
+     * Method to handle the situation where the submit button is pressed.
+     */
     public void onSubmitPressed() {
         String locationType = this.locationType.getText().toString().trim();
         String address = this.address.getText().toString().trim();
