@@ -74,8 +74,10 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     int year = Integer.parseInt(date);
 
                     if (year >= from && year <= till) {
-                        LatLng position = new LatLng(sighting.getLatitude(), sighting.getLongitude());
-                        mMap.addMarker(new MarkerOptions().position(position).title(sighting.getUniqueKey()
+                        LatLng position = new LatLng(sighting.getLatitude(),
+                                sighting.getLongitude());
+                        mMap.addMarker(new
+                                MarkerOptions().position(position).title(sighting.getUniqueKey()
                                 + " " + sighting.getIncidentAddress()));
                         mMap.moveCamera(CameraUpdateFactory.newLatLng(position));
                     }

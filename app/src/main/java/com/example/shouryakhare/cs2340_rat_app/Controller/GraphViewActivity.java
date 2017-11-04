@@ -29,7 +29,7 @@ public class GraphViewActivity extends AppCompatActivity {
     private GraphView graph;
     private String[] xAxisValues;
     private int[] yAxisValues;
-    private SimpleModel model = SimpleModel.INSTANCE;
+    private final SimpleModel model = SimpleModel.INSTANCE;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

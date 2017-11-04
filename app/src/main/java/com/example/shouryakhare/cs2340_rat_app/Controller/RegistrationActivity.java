@@ -3,17 +3,13 @@ package com.example.shouryakhare.cs2340_rat_app.Controller;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.MotionEvent;
 import android.view.View;
-import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.TextView;
 
 import com.example.shouryakhare.cs2340_rat_app.Model.DatabaseHandshake;
 import com.example.shouryakhare.cs2340_rat_app.R;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
 
 /**
  * Created by Josh on 10/1/2017.
@@ -54,7 +50,8 @@ public class RegistrationActivity extends AppCompatActivity {
                         adminBox.isChecked())) {
                     incorrectDetails.setVisibility(View.VISIBLE);
                 } else {
-                    Intent loginIntent = new Intent(RegistrationActivity.this, LoginSuccessfulActivity.class);
+                    Intent loginIntent = new Intent(RegistrationActivity.this,
+                            LoginSuccessfulActivity.class);
                     startActivity(loginIntent);
                 }
             }
@@ -63,20 +60,9 @@ public class RegistrationActivity extends AppCompatActivity {
         cancel.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent cancelIntent = new Intent(RegistrationActivity.this, MainActivity.class);
+                Intent cancelIntent = new Intent(RegistrationActivity.this,
+                        MainActivity.class);
                 startActivity(cancelIntent);
-            }
-        });
-
-        /*
-        Hides keyboard if touched outside TextField.
-         */
-        findViewById(R.id.registrationLayout).setOnTouchListener(new View.OnTouchListener() {
-            @Override
-            public boolean onTouch(View v, MotionEvent event) {
-                InputMethodManager imm = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
-                imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
-                return true;
             }
         });
     }

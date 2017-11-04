@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-77:12
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-78:12
 MERGED from [com.android.support:design:25.4.0] /Users/shouryakhare/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/057ff6e9afe10c4eadd330ea5182a834/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/shouryakhare/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/21a579968d6c4494a7ccd5f22eef99ce/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shouryakhare/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e5579ec97a5825f88762b7879ccb2478/AndroidManifest.xml:2:1-11:12
@@ -39,20 +39,20 @@ MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /Users/s
 MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /Users/shouryakhare/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.4.2.aar/c08e812867309c97b7ab23fff7ccd1b2/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] /Users/shouryakhare/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.4.2.aar/57134b5113e226ae6ca1cf304a043450/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-iid-license:11.4.2] /Users/shouryakhare/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.4.2.aar/bef1d93beeb1cf9cca5f44f72b9d201a/AndroidManifest.xml:2:1-6:12
-INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-77:12
-INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-78:12
 	package
 		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:3:5-54
 		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-77:12
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-78:12
 		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-77:12
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:1-78:12
 		INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:2:11-69
@@ -61,7 +61,7 @@ ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/
 	android:name
 		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:10:22-76
 application
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:12:5-75:19
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:12:5-76:19
 MERGED from [com.android.support:design:25.4.0] /Users/shouryakhare/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/057ff6e9afe10c4eadd330ea5182a834/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:25.4.0] /Users/shouryakhare/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/057ff6e9afe10c4eadd330ea5182a834/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/shouryakhare/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/21a579968d6c4494a7ccd5f22eef99ce/AndroidManifest.xml:25:5-29:19
@@ -205,25 +205,25 @@ ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/
 	android:name
 		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:53:13-66
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:64:9-66:55
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:65:9-67:55
 	android:value
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:66:13-52
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:67:13-52
 	android:name
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:65:13-58
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:66:13-58
 activity#com.example.shouryakhare.cs2340_rat_app.Controller.MapsActivity
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:68:9-70:59
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:69:9-71:59
 	android:label
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:70:13-56
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:71:13-56
 	android:name
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:69:13-52
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:70:13-52
 activity#com.example.shouryakhare.cs2340_rat_app.Controller.GraphViewActivity
-ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:71:9-74:56
+ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:72:9-75:56
 	android:label
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:73:13-62
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:74:13-62
 	android:theme
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:74:13-44
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:75:13-44
 	android:name
-		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:72:13-57
+		ADDED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml:73:13-57
 uses-sdk
 INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/AndroidManifest.xml

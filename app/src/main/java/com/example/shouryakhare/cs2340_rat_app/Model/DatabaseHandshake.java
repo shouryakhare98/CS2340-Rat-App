@@ -24,7 +24,7 @@ import java.util.Calendar;
  */
 public class DatabaseHandshake {
 
-    private static DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
+    private static final DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
     private static RatSighting sighting;
 
     /**
@@ -35,7 +35,8 @@ public class DatabaseHandshake {
      * @param isAdmin Whether user is admin or not.
      * @return Whether user was added or not.
      */
-    public static boolean registerUser(String username, String password, String fullName, boolean isAdmin) {
+    public static boolean registerUser(String username, String password, String fullName,
+                                       boolean isAdmin) {
 
         if (!username.trim().isEmpty()
                 && !password.trim().isEmpty()
@@ -61,9 +62,9 @@ public class DatabaseHandshake {
      * @param longitude Longitude of sighting.
      * @return Whether sighting was added or not.
      */
-    public static boolean addSighting(final String locationType, final String address, final String zip,
-                                      final String city, final String borough, String latitude,
-                                      String longitude) {
+    public static boolean addSighting(final String locationType, final String address,
+                                      final String zip, final String city, final String borough,
+                                      String latitude, String longitude) {
         if (locationType.isEmpty() || address.isEmpty() || zip.isEmpty() || city.isEmpty()
                 || borough.isEmpty() || latitude.isEmpty() || longitude.isEmpty()) {
             return false;
@@ -126,7 +127,8 @@ public class DatabaseHandshake {
 
         try {
             InputStream is = context.getResources().openRawResource(R.raw.rat_sightings);
-            BufferedReader br = new BufferedReader(new InputStreamReader(is, StandardCharsets.UTF_8));
+            BufferedReader br = new BufferedReader(new InputStreamReader(is,
+                    StandardCharsets.UTF_8));
 
             String line;
             br.readLine(); //get rid of header line

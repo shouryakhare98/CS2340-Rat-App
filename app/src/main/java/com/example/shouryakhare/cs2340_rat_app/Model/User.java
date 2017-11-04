@@ -28,19 +28,29 @@ public class User {
      */
     private boolean isAdmin;
 
-    /*
-    Getters
+    /**
+     * Username getter
+     * @return username
      */
     public String getUsername() { return username; }
+
+    /**
+     * Password getter
+     * @return password
+     */
     public String getPassword() { return password; }
 
-    /*
-    No arg constructor
+    /**
+     * No arg constructor for compilation
      */
     public User() {}
 
-    /*
-    4 arg constructor
+    /**
+     * 4 arg constructor for initialization.
+     * @param fullName Full name
+     * @param username Username
+     * @param password Password
+     * @param admin Whether admin or not
      */
     User(String fullName, String username, String password, boolean admin) {
         this.fullName = fullName;

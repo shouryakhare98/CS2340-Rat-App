@@ -3,15 +3,16 @@ package com.example.shouryakhare.cs2340_rat_app.Controller;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.MotionEvent;
 import android.view.View;
-import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
 import com.example.shouryakhare.cs2340_rat_app.R;
 
+/**
+ * Activity to display main menu.
+ */
 public class NewLoginSuccessfulActivity extends AppCompatActivity {
 
     private EditText fromYearMap;
@@ -100,7 +101,8 @@ public class NewLoginSuccessfulActivity extends AppCompatActivity {
         reportSighting.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent reportSightingIntent = new Intent(NewLoginSuccessfulActivity.this,
+                Intent reportSightingIntent = new Intent(
+                        NewLoginSuccessfulActivity.this,
                         ReportSightingActivity.class);
                 startActivity(reportSightingIntent);
             }
@@ -112,18 +114,6 @@ public class NewLoginSuccessfulActivity extends AppCompatActivity {
                 Intent logoutIntent = new Intent(NewLoginSuccessfulActivity.this,
                         MainActivity.class);
                 startActivity(logoutIntent);
-            }
-        });
-
-         /*
-        Hides keyboard if touched outside TextField.
-         */
-        findViewById(R.id.mainMenuLayout).setOnTouchListener(new View.OnTouchListener() {
-            @Override
-            public boolean onTouch(View v, MotionEvent event) {
-                InputMethodManager imm = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
-                imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
-                return true;
             }
         });
     }

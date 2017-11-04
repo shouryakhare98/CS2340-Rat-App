@@ -24,7 +24,7 @@ import static com.example.shouryakhare.cs2340_rat_app.R.layout.list_item_text;
 public class TextAdapter extends RecyclerView.Adapter {
 
     private List<RatSighting> mRatList = new ArrayList<>();
-    private List<String> mList = new ArrayList<>();
+    private final List<String> mList = new ArrayList<>();
 
     void setItems(List<RatSighting> list) {
         mRatList = list;
@@ -52,8 +52,10 @@ public class TextAdapter extends RecyclerView.Adapter {
             ((TextViewHolder) holder).linearLayout.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    Intent loginIntent = new Intent(view.getContext(), ExpandedRatSightingActivity.class);
-                    loginIntent.putExtra("RatSighting", mRatList.get(holder.getAdapterPosition()));
+                    Intent loginIntent = new Intent(view.getContext(),
+                            ExpandedRatSightingActivity.class);
+                    loginIntent.putExtra("RatSighting",
+                            mRatList.get(holder.getAdapterPosition()));
                     view.getContext().startActivity(loginIntent);
                 }
             });
@@ -72,11 +74,12 @@ public class TextAdapter extends RecyclerView.Adapter {
 
     static class TextViewHolder extends RecyclerView.ViewHolder {
 
-        private TextView mTextView;
+        private final TextView mTextView;
         LinearLayout linearLayout;
 
         static TextViewHolder inflate(ViewGroup parent) {
-            View view = LayoutInflater.from(parent.getContext()).inflate(list_item_text, parent, false);
+            View view = LayoutInflater.from(parent.getContext()).inflate(list_item_text, parent,
+                    false);
             return new TextViewHolder(view);
         }
 
