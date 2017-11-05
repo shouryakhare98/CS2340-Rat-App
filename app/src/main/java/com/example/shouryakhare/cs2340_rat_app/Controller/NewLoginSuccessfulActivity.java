@@ -1,5 +1,6 @@
 package com.example.shouryakhare.cs2340_rat_app.Controller;
 
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -118,4 +119,7 @@ public class NewLoginSuccessfulActivity extends AppCompatActivity {
         });
     }
 
+    public Context getContext() {
+        return this.getApplicationContext();
+    }
 }

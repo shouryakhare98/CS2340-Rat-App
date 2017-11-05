@@ -77,7 +77,7 @@ public class GraphViewActivity extends AppCompatActivity {
     /**
      * Method to get labels for the X-Axis of the graph.
      */
-    private void getXAxisValues() {
+    public void getXAxisValues() {
         Bundle bundle = getIntent().getExtras();
         int from = bundle.getInt("fromYear");
         int till = bundle.getInt("tillYear");
@@ -101,7 +101,7 @@ public class GraphViewActivity extends AppCompatActivity {
     /**
      * Method to get Y-Axis values.
      */
-    private void getYAxisValues() {
+    public void getYAxisValues() {
         Bundle bundle = getIntent().getExtras();
         int from = bundle.getInt("fromYear");
         int till = bundle.getInt("tillYear");
@@ -149,5 +149,21 @@ public class GraphViewActivity extends AppCompatActivity {
         graph.getGridLabelRenderer().setNumHorizontalLabels((till - from + 1) * 2);
         graph.getViewport().setScalable(true);
         graph.addSeries(lineGraphSeries);
+    }
+
+    /**
+     * Method to return xAxisValues
+     * @return Array of X-Axis values.
+     */
+    public String[] returnXAxisValues() {
+        return xAxisValues;
+    }
+
+    /**
+     * Method to return yAxisValues
+     * @return Array of Y-Axis values.
+     */
+    public int[] returnYAxisValues() {
+        return yAxisValues;
     }
 }
