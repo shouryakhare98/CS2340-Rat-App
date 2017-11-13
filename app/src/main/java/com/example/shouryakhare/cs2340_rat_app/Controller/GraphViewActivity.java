@@ -78,9 +78,8 @@ public class GraphViewActivity extends AppCompatActivity {
      * Method to get labels for the X-Axis of the graph.
      */
     public void getXAxisValues() {
-        Bundle bundle = getIntent().getExtras();
-        int from = bundle.getInt("fromYear");
-        int till = bundle.getInt("tillYear");
+        int from = getIntent().getIntExtra("fromYear", 2015);
+        int till = getIntent().getIntExtra("tillYear", 2017);
 
         int year = from;
         int month = 1;
@@ -102,9 +101,8 @@ public class GraphViewActivity extends AppCompatActivity {
      * Method to get Y-Axis values.
      */
     public void getYAxisValues() {
-        Bundle bundle = getIntent().getExtras();
-        int from = bundle.getInt("fromYear");
-        int till = bundle.getInt("tillYear");
+        int from = getIntent().getIntExtra("fromYear", 2015);
+        int till = getIntent().getIntExtra("tillYear", 2017);
 
         yAxisValues = new int[(till - from + 1) * 12];
 
@@ -122,9 +120,8 @@ public class GraphViewActivity extends AppCompatActivity {
      * Method to plot data on screen.
      */
     private void plotData() {
-        Bundle bundle = getIntent().getExtras();
-        int from = bundle.getInt("fromYear");
-        int till = bundle.getInt("tillYear");
+        int from = getIntent().getIntExtra("fromYear", 2015);
+        int till = getIntent().getIntExtra("tillYear", 2017);
 
         DataPoint[] dataPoints = new DataPoint[(till - from + 1) * 12];
 

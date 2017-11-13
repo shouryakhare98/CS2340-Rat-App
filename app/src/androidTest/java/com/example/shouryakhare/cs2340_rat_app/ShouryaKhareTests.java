@@ -15,7 +15,7 @@ import static org.junit.Assert.*;
  * JUnit test for registerUser() in class DatabaseHandshake.
  */
 @RunWith(AndroidJUnit4.class)
-public class ShouryaKhareJUnitTests {
+public class ShouryaKhareTests {
 
     /**
      * Test for registerUser() in DatabaseHandshake class.

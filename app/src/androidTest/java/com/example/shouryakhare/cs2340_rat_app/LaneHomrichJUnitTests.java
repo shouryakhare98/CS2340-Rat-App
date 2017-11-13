@@ -3,7 +3,6 @@ package com.example.shouryakhare.cs2340_rat_app;
 import android.support.test.runner.AndroidJUnit4;
 
 import com.example.shouryakhare.cs2340_rat_app.Controller.NewLoginSuccessfulActivity;
-import com.example.shouryakhare.cs2340_rat_app.Controller.ReportSightingActivity;
 import com.example.shouryakhare.cs2340_rat_app.Model.DatabaseHandshake;
 
 import org.junit.Test;
@@ -37,7 +36,6 @@ public class LaneHomrichJUnitTests {
 
         assertEquals(DatabaseHandshake.addSighting(locationType, address, zip, city, borough,
                 latitude, longitude), true);
-        assertEquals(checkIntent.getClass(), NewLoginSuccessfulActivity.class);
 
         locationType = "Home";
         address = "";

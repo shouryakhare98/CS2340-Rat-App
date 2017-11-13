@@ -3,6 +3,7 @@ package com.example.shouryakhare.cs2340_rat_app;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Looper;
+import android.support.test.espresso.Espresso;
 import android.support.test.espresso.core.deps.dagger.internal.Beta;
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
