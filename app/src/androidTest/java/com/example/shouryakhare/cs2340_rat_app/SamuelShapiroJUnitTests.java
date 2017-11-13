@@ -1,33 +1,18 @@
 package com.example.shouryakhare.cs2340_rat_app;
 
-import android.content.Intent;
-import android.os.Bundle;
-import android.os.Looper;
-import android.support.test.espresso.Espresso;
-import android.support.test.espresso.core.deps.dagger.internal.Beta;
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
-import android.test.ActivityInstrumentationTestCase;
-import android.test.ActivityInstrumentationTestCase2;
-import android.test.ActivityUnitTestCase;
 
 import com.example.shouryakhare.cs2340_rat_app.Controller.GraphViewActivity;
-import com.example.shouryakhare.cs2340_rat_app.Controller.ReportSightingActivity;
 
-import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import java.util.HashMap;
-
-import static android.support.test.espresso.Espresso.closeSoftKeyboard;
 import static android.support.test.espresso.Espresso.onView;
 import static android.support.test.espresso.action.ViewActions.click;
 import static android.support.test.espresso.action.ViewActions.typeText;
 import static android.support.test.espresso.matcher.ViewMatchers.withId;
-import static android.support.test.espresso.matcher.ViewMatchers.withText;
-import static java.util.regex.Pattern.matches;
 import static org.junit.Assert.*;
 
 /**

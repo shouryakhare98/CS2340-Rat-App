@@ -1,5 +1,8 @@
 package com.example.shouryakhare.cs2340_rat_app;
 
+import android.support.test.rule.ActivityTestRule;
+import android.support.test.runner.AndroidJUnit4;
+
 import com.example.shouryakhare.cs2340_rat_app.Controller.GraphViewActivity;
 
 import org.junit.Rule;
@@ -7,6 +10,10 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 
 
+import static android.support.test.espresso.Espresso.onView;
+import static android.support.test.espresso.action.ViewActions.click;
+import static android.support.test.espresso.action.ViewActions.typeText;
+import static android.support.test.espresso.matcher.ViewMatchers.withId;
 import static org.junit.Assert.*;
 
 /**
@@ -43,8 +50,8 @@ public class JoshuaMellottJUnitTests {
         onView(withId(R.id.mainMenu_graphViewButton)).perform(click());
 
         //check that the y-axis values are what we expected
-        String[] yValues = gActivityRule.getActivity().returnYAxisValues();
-        assertEquals(yValues[0], "0");
-        assertEquals(yValues[yValues.length - 1], "80");
+        int[] yValues = gActivityRule.getActivity().returnYAxisValues();
+        assertEquals(yValues[0], 0);
+        assertEquals(yValues[yValues.length - 1], 80);
     }
 }
