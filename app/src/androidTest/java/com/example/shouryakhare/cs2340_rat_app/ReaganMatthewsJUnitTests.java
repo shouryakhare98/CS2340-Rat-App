@@ -23,37 +23,108 @@ public class ReaganMatthewsJUnitTests {
      */
     @Test
     public void testaddSighting() throws Exception {
-        String locationType = "";
-        String address = "password";
-        String zip = "John Doe";
-        String city = "";
-        String borough = "";
+
+//check that each field will not be accepted if empty
+        String locationType = "Commercial";
+        String address = "75 5th Street NW";
+        String zip = "30309";
+        String city = "Atlanta";
+        String borough = "Midtown";
+        String latitude = "18.18";
+        String longitude = "";
+
+        assertEquals(DatabaseHandshake.addSighting(locationType, address, zip, city, borough, latitude, longitude),
+                false);
+
+        String locationType = "Commercial";
+        String address = "75 5th Street NW";
+        String zip = "30309";
+        String city = "Atlanta";
+        String borough = "Midtown";
         String latitude = "";
-        String Longitude = "";
+        String longitude = "12.12";
 
-        assertEquals(DatabaseHandshake.registerUser(username, password, fullName, isAdmin),
+        assertEquals(DatabaseHandshake.addSighting(locationType, address, zip, city, borough, latitude, longitude),
                 false);
 
-        username = "johnDoe";
-        password = "";
-        fullName = "John Doe";
-        isAdmin = true;
+        String locationType = "Commercial";
+        String address = "75 5th Street NW";
+        String zip = "30309";
+        String city = "Atlanta";
+        String borough = "";
+        String latitude = "18.18";
+        String longitude = "12.12";
 
-        assertEquals(DatabaseHandshake.registerUser(username, password, fullName, isAdmin),
+        assertEquals(DatabaseHandshake.addSighting(locationType, address, zip, city, borough, latitude, longitude),
                 false);
 
-        username = "johnDoe";
-        password = "password";
-        fullName = "";
+        String locationType = "Commercial";
+        String address = "75 5th Street NW";
+        String zip = "30309";
+        String city = "";
+        String borough = "Midtown";
+        String latitude = "18.18";
+        String longitude = "12.12";
 
-        assertEquals(DatabaseHandshake.registerUser(username, password, fullName, isAdmin),
+        assertEquals(DatabaseHandshake.addSighting(locationType, address, zip, city, borough, latitude, longitude),
                 false);
 
-        username = "johnDoe";
-        password = "password";
-        fullName = "John Doe";
+        String locationType = "Commercial";
+        String address = "75 5th Street NW";
+        String zip = "";
+        String city = "Atlanta";
+        String borough = "Midtown";
+        String latitude = "18.18";
+        String longitude = "12.12";
 
-        assertEquals(DatabaseHandshake.registerUser(username, password, fullName, isAdmin),
-                true);
+        assertEquals(DatabaseHandshake.addSighting(locationType, address, zip, city, borough, latitude, longitude),
+                false);
+
+        String locationType = "Commercial";
+        String address = "";
+        String zip = "30309";
+        String city = "Atlanta";
+        String borough = "Midtown";
+        String latitude = "18.18";
+        String longitude = "12.12";
+
+        assertEquals(DatabaseHandshake.addSighting(locationType, address, zip, city, borough, latitude, longitude),
+                false);
+
+        String locationType = "";
+        String address = "75 5th Street NW";
+        String zip = "30309";
+        String city = "Atlanta";
+        String borough = "Midtown";
+        String latitude = "18.18";
+        String longitude = "12.12";
+
+        assertEquals(DatabaseHandshake.addSighting(locationType, address, zip, city, borough, latitude, longitude),
+                false);
+
+
+//check that latitudes and longitudes are not accepted if not doubles
+        String locationType = "Commercial";
+        String address = "75 5th Street NW";
+        String zip = "30309";
+        String city = "Atlanta";
+        String borough = "Midtown";
+        String latitude = "ABC";
+        String longitude = "12.12";
+
+        assertEquals(DatabaseHandshake.addSighting(locationType, address, zip, city, borough, latitude, longitude),
+                false);
+
+        String locationType = "Commercial";
+        String address = "75 5th Street NW";
+        String zip = "30309";
+        String city = "Atlanta";
+        String borough = "Midtown";
+        String latitude = "18.18";
+        String longitude = "ABC";
+
+        assertEquals(DatabaseHandshake.addSighting(locationType, address, zip, city, borough, latitude, longitude),
+                false);
+
     }
 }
