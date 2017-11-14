@@ -77,7 +77,8 @@ public class SamuelShapiroJUnitTests {
         onView(withId(R.id.mainMenu_graphViewButton)).perform(click());
 
         //check that the app moves on to the next activity (inputs are valid)
-        GraphViewActivity nextActivity = (GraphViewActivity) getInstrumentation().waitForMonitorWithTimeout(activityMonitor, 5000);
+        GraphViewActivity nextActivity = (GraphViewActivity) getInstrumentation().
+                waitForMonitorWithTimeout(activityMonitor, 5000);
         // next activity is opened and captured.
         assertNotNull(nextActivity);
         nextActivity .finish();
