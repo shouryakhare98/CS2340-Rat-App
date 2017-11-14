@@ -183,6 +183,7 @@
 
     <TextView
         android:id="@+id/mainMenu_fromYearGraph"
+        android:labelFor="@+id/mainMenu_fromYearGraphEditText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
@@ -200,6 +201,7 @@
 
     <TextView
         android:id="@+id/mainMenu_tillYearGraph"
+        android:labelFor="@+id/mainMenu_tillYearGraphEditText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
