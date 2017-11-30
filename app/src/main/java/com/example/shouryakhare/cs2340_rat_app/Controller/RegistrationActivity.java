@@ -51,7 +51,7 @@ public class RegistrationActivity extends AppCompatActivity {
                     incorrectDetails.setVisibility(View.VISIBLE);
                 } else {
                     Intent loginIntent = new Intent(RegistrationActivity.this,
-                            LoginSuccessfulActivity.class);
+                            NewLoginSuccessfulActivity.class);
                     startActivity(loginIntent);
                 }
             }
